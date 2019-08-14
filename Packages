@@ -1,0 +1,16 @@
+Package: com.xia0.fkwechatzan
+Version: 0.0.1-13+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 228
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.fkwechatzan_0.0.1-13+debug_iphoneos-arm.deb
+Size: 33298
+MD5sum: 6b2e527f447652e13276f18a16eacf1f
+SHA1: 243b55e5e739f2aa46042133fe189f0a073c17b2
+SHA256: 4b79e5c129ca38376d3562fcd28e082aee55b39b15badb0da7e7a33b11897861
+Section: Tweaks
+Description: show me the more wechat zan!!!
+Author: xia0
+Name: fkwechatzan
+
