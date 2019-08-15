@@ -1,16 +1,32 @@
 Package: com.xia0.fkwechatzan
-Version: 0.0.1-13+debug
+Version: 0.0.1-23+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 228
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fkwechatzan_0.0.1-13+debug_iphoneos-arm.deb
-Size: 33298
-MD5sum: 6b2e527f447652e13276f18a16eacf1f
-SHA1: 243b55e5e739f2aa46042133fe189f0a073c17b2
-SHA256: 4b79e5c129ca38376d3562fcd28e082aee55b39b15badb0da7e7a33b11897861
+Filename: ./debs/com.xia0.fkwechatzan_0.0.1-23+debug_iphoneos-arm.deb
+Size: 33266
+MD5sum: f12c536cff11dbcc8fdd7822c33892a2
+SHA1: 28b3dd40ee19bcce8278284f0d6667f471a31072
+SHA256: ab6473174de1b78feb8c946cbf812e69e04cec7c0fa5725bc501e566e5ccaed6
 Section: Tweaks
 Description: show me the more wechat zan!!!
 Author: xia0
 Name: fkwechatzan
+
+Package: com.xia0z.xkfilza
+Version: 0.0.1-23+debug
+Architecture: iphoneos-arm
+Maintainer: xia0z
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0z.xkfilza_0.0.1-23+debug_iphoneos-arm.deb
+Size: 3510
+MD5sum: c2ff02e596ae81c2442eb4019f539085
+SHA1: 784c6058e620040b4bd89af5dec5b9a1986752c8
+SHA256: bc1639e0c7603fb4dbf64a7ac5f1542a22259a507a22e628c08866d1d200207d
+Section: Tweaks
+Description: Filza crack
+Author: xia0z
+Name: xkfilza
 
