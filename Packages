@@ -1,16 +1,16 @@
 Package: com.xia0.fkwechatzan
-Version: 0.0.1-23+debug
+Version: 0.0.2-3+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 228
+Installed-Size: 244
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fkwechatzan_0.0.1-23+debug_iphoneos-arm.deb
-Size: 33266
-MD5sum: f12c536cff11dbcc8fdd7822c33892a2
-SHA1: 28b3dd40ee19bcce8278284f0d6667f471a31072
-SHA256: ab6473174de1b78feb8c946cbf812e69e04cec7c0fa5725bc501e566e5ccaed6
+Filename: ./debs/com.xia0.fkwechatzan_0.0.2-3+debug_iphoneos-arm.deb
+Size: 34524
+MD5sum: 8f7745ad1f77af0545a424a89762e948
+SHA1: 65df52b9c0ffd2720c3c6e2802dc8a03a01a0011
+SHA256: bb27751ab7d21fbe7f7057959023f45444579af4057047c3b3e77faef65c2641
 Section: Tweaks
-Description: show me the more wechat zan!!!
+Description: 微信集赞助手！集赞换礼品终结者~
 Author: xia0
 Name: fkwechatzan
 
