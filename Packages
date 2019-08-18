@@ -14,6 +14,22 @@ Description: Universal dark keyboard for iOS 7 to 12. Enable/disable in settings
 Author: GN-OS & xia0
 Name: Bloard
 
+Package: com.xia0.faketime
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.faketime_0.0.1-1+debug_iphoneos-arm.deb
+Size: 7796
+MD5sum: 894b16ea8f2f4402fe00745859b65404
+SHA1: 51c2610e423ac5e1108b0ad1e199564ffe97c265
+SHA256: a7941b9e316ed80a4c2eb0877bbaef6c8de2b51507b035ca36986229867b592c
+Section: Tweaks
+Description: fake time
+Author: xia0
+Name: fakeTime
+
 Package: com.xia0.fkwechatzan
 Version: 0.0.2-3+debug
 Architecture: iphoneos-arm
