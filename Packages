@@ -46,22 +46,6 @@ Description: 微信集赞助手！集赞换礼品终结者~
 Author: xia0
 Name: fkwechatzan
 
-Package: com.xia0.xia0Wechat
-Version: 0.0.2-44+debug
-Architecture: iphoneos-arm
-Maintainer: xia0
-Installed-Size: 676
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0.xia0Wechat_0.0.2-44+debug_iphoneos-arm.deb
-Size: 117290
-MD5sum: 9e48c1b0e2493d397e731ce9597a59c8
-SHA1: be2924f0e3910f6412eba612ce6e4e09f4998e18
-SHA256: e305bcc73bd9021e052afe11ae787022c254083e9a00b2a7f442dd2a763985a5
-Section: Tweaks
-Description: xia0 awsome wechat tools!!!
-Author: xia0
-Name: xia0Wechat
-
 Package: com.xia0z.xkfilza
 Version: 0.0.1-23+debug
 Architecture: iphoneos-arm
