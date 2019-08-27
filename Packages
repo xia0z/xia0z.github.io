@@ -31,16 +31,16 @@ Author: xia0
 Name: fakeTime
 
 Package: com.xia0.fkwechatzan
-Version: 1.0.0-1+debug
+Version: 1.0.0-3+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 264
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fkwechatzan_1.0.0-1+debug_iphoneos-arm.deb
-Size: 40230
-MD5sum: e46dcdf5c2e6d011b81a83d35605f21d
-SHA1: 73447054b8e30e6861766e312ceef0494777bf08
-SHA256: 0afbe15629267c4c2bcaf46f320ca8dd10ae2b04a487a509ecadb9bb44c8fc9b
+Filename: ./debs/com.xia0.fkwechatzan_1.0.0-3+debug_iphoneos-arm.deb
+Size: 40208
+MD5sum: e70be6939697b3c9c8ef920823a7c605
+SHA1: b08bae86ba0ebaebef70dde5b8ca02099402f934
+SHA256: f6614336aa069509b76c497d34618b537ee947881b2b15c05fc074abf19ccea6
 Section: Tweaks
 Description: 微信集赞助手！集赞换礼品终结者~
 Author: xia0
