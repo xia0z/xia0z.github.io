@@ -30,6 +30,22 @@ Description: fake time
 Author: xia0
 Name: fakeTime
 
+Package: com.xia0.fkiqyad
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.fkiqyad_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3668
+MD5sum: 508d4b4b4b92503f03244759ba73831b
+SHA1: 7ba9aa4d65da0d9ac116b9a862bbbbacda493798
+SHA256: 9388f6219acbfdac70ddc65f935d2697df7a0651d1d3aae96de1d44a214439f5
+Section: Tweaks
+Description: iqy ad remover!
+Author: xia0
+Name: fkiqyad
+
 Package: com.xia0.fkwechatzan
 Version: 1.0.0-3+debug
 Architecture: iphoneos-arm
@@ -45,6 +61,22 @@ Section: Tweaks
 Description: 微信集赞助手！集赞换礼品终结者~
 Author: xia0
 Name: fkwechatzan
+
+Package: com.xia0.volume2home
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.volume2home_0.0.1-3+debug_iphoneos-arm.deb
+Size: 3468
+MD5sum: fc548fef603a1224aa51c971af771f55
+SHA1: 0e0aac8bfee1c952d338eb588e89dc924cb5bdb0
+SHA256: 6dc29f13988cf543ba3d20ae453c63cecbc49cca528252bcc746f4afd2a5da0b
+Section: Tweaks
+Description: use volume press home button
+Author: xia0
+Name: volume2home
 
 Package: com.xia0z.xkfilza
 Version: 0.0.1-23+debug
