@@ -95,18 +95,18 @@ Author: xia0
 Name: volume2home
 
 Package: com.xia0.wechatremark
-Version: 0.0.1-15+debug
+Version: 0.0.1-34+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 136
+Installed-Size: 140
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.wechatremark_0.0.1-15+debug_iphoneos-arm.deb
-Size: 5938
-MD5sum: 9717ad78d2516f41debd34541d51da34
-SHA1: ebfa7ce9ad07bd18294e518fee51f417d8e053bb
-SHA256: 81bf3ea2269c86f8990aced4d96cffdb86664f2b0702c10cbd690860e76f10ec
+Filename: ./debs/com.xia0.wechatremark_0.0.1-34+debug_iphoneos-arm.deb
+Size: 10580
+MD5sum: b992e00255b18f12372a8f89949e7ac2
+SHA1: e163741824966939c41681db92c161aae27337a1
+SHA256: 2057fbc4b090eeda2ef3a933fcd2827feda417807085f8d796394b9b46fb0522
 Section: Tweaks
-Description: 快速更改好友备注插件：在好友聊天界面直接输入"备注 新的备注"（注意中间有空格）
+Description: 快速更改好友备注插件：在好友聊天界面直接输入"备注 新的备注"即可（注意中间有空格）
 Author: xia0
 Name: 微信快速备注好友
 
