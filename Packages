@@ -14,6 +14,22 @@ Description: Universal dark keyboard for iOS 7 to 12. Enable/disable in settings
 Author: GN-OS & xia0
 Name: Bloard
 
+Package: com.xia0.douyin4fun
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.douyin4fun_0.0.1-8+debug_iphoneos-arm.deb
+Size: 4666
+MD5sum: cb360ac8fe22d6766299b047f7c5a0d4
+SHA1: 2d59ee4e031b96afd359934b778ac5f54c2368cb
+SHA256: e5e19ad366385345f28f1ce769147d4d27ac9cd23b9aef74e3e3039c97cae40a
+Section: Tweaks
+Description: douyin auto play next video
+Author: xia0
+Name: douyin4fun
+
 Package: com.xia0.faketime
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
