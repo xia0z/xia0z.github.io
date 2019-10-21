@@ -15,20 +15,20 @@ Author: GN-OS & xia0
 Name: Bloard
 
 Package: com.xia0.douyin4fun
-Version: 0.0.1-8+debug
+Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.douyin4fun_0.0.1-8+debug_iphoneos-arm.deb
-Size: 4666
-MD5sum: cb360ac8fe22d6766299b047f7c5a0d4
-SHA1: 2d59ee4e031b96afd359934b778ac5f54c2368cb
-SHA256: e5e19ad366385345f28f1ce769147d4d27ac9cd23b9aef74e3e3039c97cae40a
+Filename: ./debs/com.xia0.douyin4fun_0.0.2-1+debug_iphoneos-arm.deb
+Size: 5060
+MD5sum: a85ccd9a648ba21dd71cfdd95dd8e9bf
+SHA1: 9a8cb113d5c76e42820a7d42f828f6f618727c94
+SHA256: 3261c3587bc4b4eab3365623f45dcb290a431f709537d4c1138ea74270184508
 Section: Tweaks
-Description: douyin auto play next video
+Description: douyin auto play next video(fix not work on iPhoneXS iOS12)
 Author: xia0
-Name: douyin4fun
+Name: 抖音自动播放视频
 
 Package: com.xia0.faketime
 Version: 0.0.1-1+debug
