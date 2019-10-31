@@ -15,16 +15,16 @@ Author: GN-OS & xia0
 Name: Bloard
 
 Package: com.xia0.douyin4fun
-Version: 0.0.7-1+debug
+Version: 0.0.7-34+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 260
+Installed-Size: 264
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.douyin4fun_0.0.7-1+debug_iphoneos-arm.deb
-Size: 65476
-MD5sum: cc4b14c19e65d7c2256b748202d9fe81
-SHA1: 1febe75385e05d3a4afc8f2251fde8cc72485edc
-SHA256: 2450e0201248c11898fe9c63d187dbca4473837c9af740038b9ac2292cf88182
+Filename: ./debs/com.xia0.douyin4fun_0.0.7-34+debug_iphoneos-arm.deb
+Size: 68938
+MD5sum: 29f57cbde463694b42e64c4b74ce7675
+SHA1: fd8dbcada1b06462c140cec3ea021c28c97e211b
+SHA256: 2f692fb87814add387957f152dded4e493e365fe89c8af1e104a9673a6b9e011
 Section: Tweaks
 Description: douyin auto play next video, skip ads, clean mode and so on
 Author: xia0
