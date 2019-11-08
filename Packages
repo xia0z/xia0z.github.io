@@ -126,6 +126,22 @@ Description: 在好友聊天界面直接输入"备注 新的备注"或"标签 �
 Author: xia0
 Name: 微信快速备注好友
 
+Package: com.xia0.weibocrashhook
+Version: 0.0.2-3+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.weibocrashhook_0.0.2-3+debug_iphoneos-arm.deb
+Size: 3142
+MD5sum: 45902092f15a126d734d1c840080535d
+SHA1: 9e46fddc388babb4adc465ecf3f8812153ed94b9
+SHA256: 2482b48b401c78b9f6f0e8d9575b9f303f60e2bb14856c9f860a2488d7a6ac16
+Section: Tweaks
+Description: anti sina weibo crash on jailbreak device(iPhoneXS iOS12)
+Author: xia0
+Name: weibocrashhook
+
 Package: com.xia0z.xkfilza
 Version: 0.0.1-23+debug
 Architecture: iphoneos-arm
