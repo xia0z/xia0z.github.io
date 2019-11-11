@@ -14,6 +14,23 @@ Description: Universal dark keyboard for iOS 7 to 12. Enable/disable in settings
 Author: GN-OS & xia0
 Name: Bloard
 
+Package: com.xia0.defaults
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 236
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.xia0.defaults_0.0.1-2+debug_iphoneos-arm.deb
+Size: 35374
+MD5sum: 7f838ece65e4a365cc7d5e8976dc112a
+SHA1: d1a5b715d9ee35f80795dd3b117108768ff6639b
+SHA256: a2f57e9028f39b5e55b048c051632ecb7197695ec23b8e35250512ed9f983d69
+Section: System
+Description: defaults get from libcephei
+Tag: role::hacker
+Author: xia0 & hbang
+Name: defaults
+
 Package: com.xia0.douyin4fun
 Version: 0.0.9-3+debug
 Architecture: iphoneos-arm
