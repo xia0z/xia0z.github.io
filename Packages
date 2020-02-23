@@ -111,6 +111,22 @@ Description: 微信集赞助手！集赞换礼品终结者~
 Author: xia0
 Name: fkwechatzan
 
+Package: com.xia0.happywheelsnoad
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.happywheelsnoad_0.0.1-5+debug_iphoneos-arm.deb
+Size: 3924
+MD5sum: f43d8c3fe6d91e14bb38f1b511474282
+SHA1: 237e85dd09602a29c9f1e5037c06dca97d44c764
+SHA256: 25308eac2670d69aa1823f7102ddcdaf4b40701ecbb634c8638b775621cc4fc3
+Section: Tweaks
+Description: Ads will die for Happy Wheels Game
+Author: xia0
+Name: HappyWheelsNoADs
+
 Package: com.xia0.volume2home
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
@@ -128,18 +144,18 @@ Author: xia0
 Name: volume2home
 
 Package: com.xia0.wechatremark
-Version: 0.0.2-1+debug
+Version: 0.0.3-1+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 140
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.wechatremark_0.0.2-1+debug_iphoneos-arm.deb
-Size: 10572
-MD5sum: 0a262c04017af869595f8f5578adb5d9
-SHA1: 49d71983873bd9350a193969e63b8d41bb28382c
-SHA256: 2d080cc10a61a3d046647c2233fffd7149efdc455f0faa2767ce168c3618e16d
+Filename: ./debs/com.xia0.wechatremark_0.0.3-1+debug_iphoneos-arm.deb
+Size: 11516
+MD5sum: 775e9d3a1948c29b49067105d7b06fab
+SHA1: d169f665e88593a4a823a02a2ea1b71f9e986a2c
+SHA256: aa5410156608a47aab7c2bb2a91f2b7e79ee09ba5cee4134ab3e3d815928c4a1
 Section: Tweaks
-Description: 在好友聊天界面直接输入"备注 新的备注"或"标签 帮助"查看快速标签命令(注意中间有空格）
+Description: 在好友聊天界面直接输入"备注 新的备注" "备注at 公司or组织" 或"标签 帮助"查看快速标签命令(注意中间有空格）
 Author: xia0
 Name: 微信快速备注好友
 
