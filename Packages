@@ -128,16 +128,16 @@ Author: xia0
 Name: HappyWheelsNoADs
 
 Package: com.xia0.tap2debug
-Version: 0.0.1-11+debug
+Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: xia0 & dodo
 Installed-Size: 208
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.tap2debug_0.0.1-11+debug_iphoneos-arm.deb
-Size: 16996
-MD5sum: 2990825b1390fd6cad27aa1942ae6d04
-SHA1: 5bebd6127ee67a2804e1c52d03d530cd27f7254e
-SHA256: 2f09ba8ab220dd7944d8929b81b156e5f57873052ad1011ae650cd7ecf5a3f80
+Filename: ./debs/com.xia0.tap2debug_0.0.2-1+debug_iphoneos-arm.deb
+Size: 17556
+MD5sum: 596b247145676965f251a1e26888dc16
+SHA1: bbf8cbca9a3c3698fa48b5683818acd92ac54e1e
+SHA256: 7935576182659f53a49a86ad7f41c62428e3d656ae55b1cbd537b72f83951d6b
 Section: Tweaks
 Description: tap app icon for debugging (support iOS12/13 and A12)
 Author: xia0 & dodo
