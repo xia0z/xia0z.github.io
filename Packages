@@ -127,6 +127,22 @@ Description: Ads will die for Happy Wheels Game
 Author: xia0
 Name: HappyWheelsNoADs
 
+Package: com.xia0.tap2debug
+Version: 0.0.1-11+debug
+Architecture: iphoneos-arm
+Maintainer: xia0 & dodo
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.tap2debug_0.0.1-11+debug_iphoneos-arm.deb
+Size: 16996
+MD5sum: 2990825b1390fd6cad27aa1942ae6d04
+SHA1: 5bebd6127ee67a2804e1c52d03d530cd27f7254e
+SHA256: 2f09ba8ab220dd7944d8929b81b156e5f57873052ad1011ae650cd7ecf5a3f80
+Section: Tweaks
+Description: tap app icon for debugging (support iOS12/13 and A12)
+Author: xia0 & dodo
+Name: tap2debug
+
 Package: com.xia0.volume2home
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
