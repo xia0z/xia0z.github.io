@@ -47,38 +47,6 @@ Description: douyin auto play next video, skip ads, clean mode and so on (fix iO
 Author: xia0
 Name: 抖音xia0助手
 
-Package: com.xia0.faketime
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: xia0
-Installed-Size: 140
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0.faketime_0.0.1-1+debug_iphoneos-arm.deb
-Size: 7796
-MD5sum: 894b16ea8f2f4402fe00745859b65404
-SHA1: 51c2610e423ac5e1108b0ad1e199564ffe97c265
-SHA256: a7941b9e316ed80a4c2eb0877bbaef6c8de2b51507b035ca36986229867b592c
-Section: Tweaks
-Description: fake time
-Author: xia0
-Name: fakeTime
-
-Package: com.xia0.fkiqyad
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: xia0
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fkiqyad_0.0.1-2+debug_iphoneos-arm.deb
-Size: 3668
-MD5sum: 508d4b4b4b92503f03244759ba73831b
-SHA1: 7ba9aa4d65da0d9ac116b9a862bbbbacda493798
-SHA256: 9388f6219acbfdac70ddc65f935d2697df7a0651d1d3aae96de1d44a214439f5
-Section: Tweaks
-Description: iqy ad remover!
-Author: xia0
-Name: fkiqyad
-
 Package: com.xia0.fkwatermark
 Version: 0.0.3-1+debug
 Architecture: iphoneos-arm
@@ -126,6 +94,22 @@ Section: Tweaks
 Description: Ads will die for Happy Wheels Game
 Author: xia0
 Name: HappyWheelsNoADs
+
+Package: com.xia0.syscalltracer
+Version: 0.0.2-3+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.syscalltracer_0.0.2-3+debug_iphoneos-arm.deb
+Size: 10376
+MD5sum: c580c0c06ff904194a466374393063f3
+SHA1: b516df0fb8b71a33799001dd7182dc543dc44a9d
+SHA256: 463d5bc577056d43b3b11097062d728dd1529ed11e45758e861ba7ef6acf66d8
+Section: Tweaks
+Description: trace syscall of app by inline assemble like svc #80. Use "idevicesyslog | grep XLOG" to check tracing log. Now only support arm64! It's for security researcher to find how app detects jailbreak and anti debug in inline assemble layer. It is a beta version. So if you find some strange or funning thing, please contact me twitter @X1a0Z
+Author: xia0
+Name: Syscall Tracer(Beta)
 
 Package: com.xia0.tap2debug
 Version: 0.0.2-1+debug
