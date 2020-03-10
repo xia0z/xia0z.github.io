@@ -96,16 +96,16 @@ Author: xia0
 Name: HappyWheelsNoADs
 
 Package: com.xia0.syscalltracer
-Version: 0.0.2
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.syscalltracer_0.0.2_iphoneos-arm.deb
-Size: 8566
-MD5sum: 18960717ecd7b77b95327d5ed8625323
-SHA1: ef12ff86f6acacab3be1ee588ddad6393a13b733
-SHA256: 8a0018d62c231da1bfeade6b467627b4868562650a5655fd0c3c42f0a8237155
+Filename: ./debs/com.xia0.syscalltracer_0.0.4_iphoneos-arm.deb
+Size: 9300
+MD5sum: 46cb659db7d0973cb02868e5d2ad19c6
+SHA1: 457522e860415c0ac113efe5c639f4e2ad8b2204
+SHA256: fab85a9a52b01b19153f3d0fa46f95ad5b39fa18114fdbb70dc7b9607bccb62b
 Section: Tweaks
 Description: Trace syscall of app by inline assemble like svc #80. Use "idevicesyslog | grep XLOG" to check tracing log. Now only support arm64! It's for security researcher to find how app detects jailbreak and anti debug in inline assemble layer. It is a beta version. So if you find some strange or funning thing, please contact me twitter @X1a0Z
 Author: xia0
