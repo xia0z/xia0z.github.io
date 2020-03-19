@@ -112,20 +112,20 @@ Author: xia0
 Name: Syscall Tracer(Beta)
 
 Package: com.xia0.tap2debug
-Version: 0.0.2-1+debug
+Version: 0.0.5-2+debug
 Architecture: iphoneos-arm
 Maintainer: xia0 & dodo
-Installed-Size: 208
+Installed-Size: 180
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.tap2debug_0.0.2-1+debug_iphoneos-arm.deb
-Size: 17556
-MD5sum: 596b247145676965f251a1e26888dc16
-SHA1: bbf8cbca9a3c3698fa48b5683818acd92ac54e1e
-SHA256: 7935576182659f53a49a86ad7f41c62428e3d656ae55b1cbd537b72f83951d6b
+Filename: ./debs/com.xia0.tap2debug_0.0.5-2+debug_iphoneos-arm.deb
+Size: 16100
+MD5sum: f7267959edb71ff60f9b3940305ccbc3
+SHA1: 29cbd216bedd0e80ab5e1a167178dfdc4cba9ed2
+SHA256: abe5c1231057ff2189a0ec3797cb42ed19209f3be54aeb8b5b9ad68fe7fe6631
 Section: Tweaks
-Description: tap app icon for debugging (support iOS12/13 and A12)
+Description: tap shortcut(double tap app icon is deault close because app will pause) to debug app (support iOS12/13 and A12)
 Author: xia0 & dodo
-Name: tap2debug
+Name: Tap2debug
 
 Package: com.xia0.volume2home
 Version: 0.0.1-4+debug
