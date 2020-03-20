@@ -48,20 +48,20 @@ Author: xia0
 Name: 抖音xia0助手
 
 Package: com.xia0.fkwatermark
-Version: 0.0.3-1+debug
+Version: 0.0.5-3+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 344
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fkwatermark_0.0.3-1+debug_iphoneos-arm.deb
-Size: 18568
-MD5sum: 9d06968d9b4867f3ba20b2d8e9ebc96f
-SHA1: e77c8dbeaa2f0b98d80d5df469313e7745004ee4
-SHA256: 43f284a5915d99200627eb32321721fe0ed2f17e89a4deb8fd3a5869266d98d5
+Filename: ./debs/com.xia0.fkwatermark_0.0.5-3+debug_iphoneos-arm.deb
+Size: 22718
+MD5sum: a874922464f926b7bd95b30e17c540ee
+SHA1: d37e522e6d95c888b98c4713017acf012f76859b
+SHA256: 835feb79390cd38dad309cb53608b6f17648b862b1758d5d8fcb55edaf8b0b03
 Section: Tweaks
-Description: remove watermark when video download like tiktok.短视频下载去水印，目前支持有皮皮搞笑/抖音/皮皮虾/tiktok
+Description: 短视频下载去水印，目前支持有皮皮搞笑/抖音/皮皮虾。
 Author: xia0
-Name: fkwatermark
+Name: 短视频下载去水印
 
 Package: com.xia0.fkwechatzan
 Version: 1.0.0-3+debug
