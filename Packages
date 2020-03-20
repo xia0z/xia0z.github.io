@@ -48,20 +48,20 @@ Author: xia0
 Name: 抖音xia0助手
 
 Package: com.xia0.fkwatermark
-Version: 0.0.5-3+debug
+Version: 0.0.6-3+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 344
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fkwatermark_0.0.5-3+debug_iphoneos-arm.deb
-Size: 22718
-MD5sum: a874922464f926b7bd95b30e17c540ee
-SHA1: d37e522e6d95c888b98c4713017acf012f76859b
-SHA256: 835feb79390cd38dad309cb53608b6f17648b862b1758d5d8fcb55edaf8b0b03
+Filename: ./debs/com.xia0.fkwatermark_0.0.6-3+debug_iphoneos-arm.deb
+Size: 22628
+MD5sum: 4462765868ba8b0e895aa4893e62797c
+SHA1: 1ba31e14c3092373e402a7f0b56cb5a4a8e24517
+SHA256: 15ae2f6bf07476f8c9c44c1ad423e442c0b88dd290abacbaeb60d288b8275b02
 Section: Tweaks
-Description: 短视频下载去水印，目前支持有皮皮搞笑/抖音/皮皮虾。
+Description: Remove watermark of download video for 皮皮搞笑/抖音/皮皮虾/TikTok
 Author: xia0
-Name: 短视频下载去水印
+Name: NoWatermark
 
 Package: com.xia0.fkwechatzan
 Version: 1.0.0-3+debug
@@ -94,6 +94,22 @@ Section: Tweaks
 Description: Ads will die for Happy Wheels Game
 Author: xia0
 Name: HappyWheelsNoADs
+
+Package: com.xia0.swiftvershook
+Version: 0.0.3-17+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.swiftvershook_0.0.3-17+debug_iphoneos-arm.deb
+Size: 6956
+MD5sum: 72375899432c3d55f09990ef6e22f14b
+SHA1: c58d83bf602c5d0fcfe4a85a66bce3b6d2e1ce23
+SHA256: 9f76a0adefd05062db96746aa22374c3735e420c31f44ff90f5038edd37fd69b
+Section: Tweaks
+Description: Bypass Swift version check !
+Author: xia0
+Name: BypassSwiftVersionCheck
 
 Package: com.xia0.syscalltracer
 Version: 0.0.4
