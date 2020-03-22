@@ -159,22 +159,6 @@ Description: use volume press home button
 Author: xia0
 Name: volume2home
 
-Package: com.xia0.wechatremark
-Version: 0.0.3-1+debug
-Architecture: iphoneos-arm
-Maintainer: xia0
-Installed-Size: 140
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0.wechatremark_0.0.3-1+debug_iphoneos-arm.deb
-Size: 11516
-MD5sum: 775e9d3a1948c29b49067105d7b06fab
-SHA1: d169f665e88593a4a823a02a2ea1b71f9e986a2c
-SHA256: aa5410156608a47aab7c2bb2a91f2b7e79ee09ba5cee4134ab3e3d815928c4a1
-Section: Tweaks
-Description: 在好友聊天界面直接输入"备注 新的备注" "备注at 公司or组织" 或"标签 帮助"查看快速标签命令(注意中间有空格）
-Author: xia0
-Name: 微信快速备注好友
-
 Package: com.xia0.weibocrashhook
 Version: 0.0.2-3+debug
 Architecture: iphoneos-arm
