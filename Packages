@@ -1,3 +1,19 @@
+Package: com.xia0.alipaynocrash
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.alipaynocrash_0.0.1-2_iphoneos-arm.deb
+Size: 2378
+MD5sum: 056bb4c07a539dcb7a14d31ed88061b2
+SHA1: 8a2003adad400fcec3f7ca44d35c42565a2f3b20
+SHA256: 113b1897a9b82f4b7ee24ed5ccb381fa39af161955134d1753e821d11b595cde
+Section: Tweaks
+Description: anti last version alipay crash on Chimera jialbreak.
+Author: xia0
+Name: AlipayNoCrash
+
 Package: com.xia0.bloard
 Version: 0.1.3-1+debug
 Architecture: iphoneos-arm
