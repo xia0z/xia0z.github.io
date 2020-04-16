@@ -63,6 +63,22 @@ Description: douyin auto play next video, skip ads, clean mode and so on (fix iO
 Author: xia0
 Name: 抖音xia0助手
 
+Package: com.xia0.fakelocation
+Version: 0.0.2-4
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.fakelocation_0.0.2-4_iphoneos-arm.deb
+Size: 6406
+MD5sum: 4e8d61312c2e7fd0bad460a0e6d87457
+SHA1: 9edda573b856a0b610da2b6ecb2ade02466caf8c
+SHA256: be0f8d944088a26b683ebe2814ed8f0d81395d65626b7bb5a8460be8609482f3
+Section: Tweaks
+Description: Best Fake Location Tweak on iOS.
+Author: xia0
+Name: FakeLocation
+
 Package: com.xia0.fkwatermark
 Version: 0.0.6-3+debug
 Architecture: iphoneos-arm
