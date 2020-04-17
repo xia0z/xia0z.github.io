@@ -64,16 +64,16 @@ Author: xia0
 Name: 抖音xia0助手
 
 Package: com.xia0.fakelocation
-Version: 0.0.3-1
+Version: 0.0.4-4
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 328
+Installed-Size: 336
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fakelocation_0.0.3-1_iphoneos-arm.deb
-Size: 21700
-MD5sum: 0b3d3d0f2f25531380be8acbdb91aed5
-SHA1: 6c831fd2a205ba682ffa03723f05b313413e330d
-SHA256: ab879363951b9ddaee2d183ad014ffeb6a2d5038398a4541f17d8433359f236a
+Filename: ./debs/com.xia0.fakelocation_0.0.4-4_iphoneos-arm.deb
+Size: 24282
+MD5sum: 55e5fa9b4b83d96a71b6353653595589
+SHA1: 577f32ce4e959e2d9267c40a364670713e64c545
+SHA256: cb5bfb3b11dda2ebb6c35d33edd65e8fe3a3eaac415243fb764acc6de3b29aba
 Section: Tweaks
 Description: The Best Fake Location Tweak on iOS.
 Author: xia0
