@@ -14,3 +14,4 @@ bzip2 -fks ./Packages
 
 git add .
 git commit -m "x"
+git push
