@@ -48,20 +48,20 @@ Author: xia0 & hbang
 Name: defaults
 
 Package: com.xia0.douyin4fun
-Version: 0.1.0-1+debug
+Version: 0.1.1-19+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 284
+Installed-Size: 304
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.douyin4fun_0.1.0-1+debug_iphoneos-arm.deb
-Size: 73904
-MD5sum: 8abb1da0ac79714a89e38e1fb63c05af
-SHA1: 34b0dd7af54522c068bf27081025b98042b1d3ca
-SHA256: 2d1d4db0305396cfbbd5a7386c793226367da1a47caf25c0834f15525366b21f
+Filename: ./debs/com.xia0.douyin4fun_0.1.1-19+debug_iphoneos-arm.deb
+Size: 76034
+MD5sum: b5e25cb046f155e2e404551491f54ae7
+SHA1: 04c4c693b0b847a3f5dac48ce79e046f97080f75
+SHA256: 9e7982c37269c39cb078faaa2f7b21f6dc848a7102a4cf5c6e6439ebcc226470
 Section: Tweaks
-Description: douyin auto play next video, skip ads, clean mode and so on (fix iOS13 setting auto show bug)
+Description: 仅用于自娱自乐，严禁用于非法用途，否则后果自负。
 Author: xia0
-Name: 抖音xia0助手
+Name: 抖音助手
 
 Package: com.xia0.fakelocation
 Version: 0.1.3-2
