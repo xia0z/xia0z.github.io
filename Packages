@@ -143,22 +143,6 @@ Description: Bypass Swift version check !
 Author: xia0
 Name: BypassSwiftVersionCheck
 
-Package: com.xia0.syscalltracer
-Version: 0.0.4
-Architecture: iphoneos-arm
-Maintainer: xia0
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0.syscalltracer_0.0.4_iphoneos-arm.deb
-Size: 9300
-MD5sum: 46cb659db7d0973cb02868e5d2ad19c6
-SHA1: 457522e860415c0ac113efe5c639f4e2ad8b2204
-SHA256: fab85a9a52b01b19153f3d0fa46f95ad5b39fa18114fdbb70dc7b9607bccb62b
-Section: Tweaks
-Description: Trace syscall of app by inline assemble like svc #80. Use "idevicesyslog | grep XLOG" to check tracing log. Now only support arm64! It's for security researcher to find how app detects jailbreak and anti debug in inline assemble layer. It is a beta version. So if you find some strange or funning thing, please contact me twitter @X1a0Z
-Author: xia0
-Name: Syscall Tracer(Beta)
-
 Package: com.xia0.tap2debug
 Version: 0.0.8-1+debug
 Architecture: iphoneos-arm
