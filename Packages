@@ -48,16 +48,16 @@ Author: xia0 & hbang
 Name: defaults
 
 Package: com.xia0.douyin4fun
-Version: 0.1.2-1+debug
+Version: 0.1.3-1+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 304
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.douyin4fun_0.1.2-1+debug_iphoneos-arm.deb
-Size: 76276
-MD5sum: c06f97a9f6daae6708ee5840b1621d33
-SHA1: ba0e731ceae0e0e3f5369d902d44f92c389777b8
-SHA256: 42d418e27254741ad83ca96cb1a1091cc41e03e6c87d664f5d4b6f273c45bbed
+Filename: ./debs/com.xia0.douyin4fun_0.1.3-1+debug_iphoneos-arm.deb
+Size: 77188
+MD5sum: 776e1bf6b60dac23a0c823b2cd96c0f2
+SHA1: 562f0071856d91d467b6cb4dc53808b63d547a72
+SHA256: 42cd1db7c53af58085501406eabdc13fef165006c211513b677332d7fa08b702
 Section: Tweaks
 Description: 仅用于自娱自乐，严禁用于非法用途，否则后果自负。
 Author: xia0
