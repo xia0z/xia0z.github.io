@@ -48,20 +48,20 @@ Author: xia0 & hbang
 Name: defaults
 
 Package: com.xia0.douyin4fun
-Version: 0.1.4-1+debug
+Version: 0.1.5-1+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 304
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.douyin4fun_0.1.4-1+debug_iphoneos-arm.deb
-Size: 77204
-MD5sum: 026a11c68bedde7bc6f1735350164556
-SHA1: 7c39f5e0470eb8b1b7f53b5eb2a8bca5c07320c6
-SHA256: 2917c57a3ed685efedd6b1703c39764e34a82feb366a434564c81ecb474ed122
+Filename: ./debs/com.xia0.douyin4fun_0.1.5-1+debug_iphoneos-arm.deb
+Size: 76566
+MD5sum: 19a552ba53eb46ef503bb5a796602ad9
+SHA1: 048bcdba2f5bff4cf1e797a614d6d213447dd76a
+SHA256: 33b2a1ae76d55eef581e363e713d0af88b6b46e38b7c1bdf39984bb24cba2711
 Section: Tweaks
 Description: 仅用于自娱自乐，严禁用于非法用途，否则后果自负。
 Author: xia0
-Name: 抖音助手
+Name: 抖音小助手
 
 Package: com.xia0.fakelocation
 Version: 0.1.9-2
