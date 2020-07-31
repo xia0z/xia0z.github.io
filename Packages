@@ -96,22 +96,6 @@ Description: Remove watermark of download video for 皮皮搞笑/抖音/皮皮�
 Author: xia0
 Name: NoWatermark
 
-Package: com.xia0.fkwechatzan.me
-Version: 0.0.4-22+debug
-Architecture: iphoneos-arm
-Maintainer: xia0
-Installed-Size: 248
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fkwechatzan.me_0.0.4-22+debug_iphoneos-arm.deb
-Size: 41186
-MD5sum: 5d9496eeee0b90731e3d3ae7ceb504dc
-SHA1: 98f124b79a25fb3f1ff06e4a7af05f312f1a7a87
-SHA256: 0a74e2318dd1bd23cb7ad0e5bcfce67e7e45956a57144ffabe232ee5fac21225
-Section: Tweaks
-Description: 微信集赞/评论助手！集赞换礼品终结者~ (修复新版本bug)
-Author: xia0
-Name: 微信集赞/评论助手
-
 Package: com.xia0.happywheelsnoad
 Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
