@@ -96,22 +96,6 @@ Description: Remove watermark of download video for 皮皮搞笑/抖音/皮皮�
 Author: xia0
 Name: NoWatermark
 
-Package: com.xia0.fkwechatzan
-Version: 1.0.0-3+debug
-Architecture: iphoneos-arm
-Maintainer: xia0
-Installed-Size: 264
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fkwechatzan_1.0.0-3+debug_iphoneos-arm.deb
-Size: 40208
-MD5sum: e70be6939697b3c9c8ef920823a7c605
-SHA1: b08bae86ba0ebaebef70dde5b8ca02099402f934
-SHA256: f6614336aa069509b76c497d34618b537ee947881b2b15c05fc074abf19ccea6
-Section: Tweaks
-Description: 微信集赞助手！集赞换礼品终结者~
-Author: xia0
-Name: fkwechatzan
-
 Package: com.xia0.fkwechatzan.me
 Version: 0.0.4-22+debug
 Architecture: iphoneos-arm
@@ -191,6 +175,22 @@ Section: Tweaks
 Description: use volume press home button
 Author: xia0
 Name: volume2home
+
+Package: com.xia0.wechatzanx
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.wechatzanx_0.1-1_iphoneos-arm.deb
+Size: 26810
+MD5sum: fff452fe643a6d4928c089530e59a4c3
+SHA1: 0cf485452a05b4fe1def336429aa74d53704c6d4
+SHA256: 295e59c8d78e3dbe2be837fbbf3279f50f6f5e3603b971c1e91be57494abb1c5
+Section: Tweaks
+Description: 微信积赞助手xia0Dev版：兼容了新旧版本的微信，修复了众多bug，优化了速度和稳定性。
+Author: xia0
+Name: 微信积赞助手（xia0Dev）
 
 Package: com.xia0.weibocrashhook
 Version: 0.0.2-3+debug
