@@ -183,10 +183,10 @@ Maintainer: xia0
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.xia0.weibox_0.1-1_iphoneos-arm.deb
-Size: 4336
-MD5sum: 408cd8533f7cc79f512ac2bde4031381
-SHA1: 5e187464af02cf2776fcc50414d0b015254f988a
-SHA256: d002d3e21b2a65b4211afe5a911d21197524f5825fef651b5fc3bae974cd82f4
+Size: 5128
+MD5sum: cbb85c63d41b98d4731c3f792193ed87
+SHA1: b77103bb942a37462892ea476b27c781066ae53f
+SHA256: d6c7c4bc9cdba234c24df179df18839d912684d27f8461ed7345305db10154f1
 Section: Tweaks
 Description: 微博插件，目前功能仅有去微博内的所有广告（开屏，推荐，关注，热搜等内的广告）
 Author: xia0
