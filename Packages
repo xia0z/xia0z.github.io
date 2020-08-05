@@ -87,10 +87,10 @@ Maintainer: xia0
 Installed-Size: 920
 Depends: mobilesubstrate
 Filename: ./debs/com.xia0.fakelocationx_0.3-0_iphoneos-arm.deb
-Size: 612274
-MD5sum: 777efab756be28cf37d2052adfb705fc
-SHA1: ad0b29fb49130bdafa807b0f4dbd22a10324931e
-SHA256: 116281b73d20d1a25aa7ef54a08c1bd7a9ca4a5b27de814af21b0a89ac2dbbf9
+Size: 612268
+MD5sum: a48669a8f1a1390cec71d75725c06305
+SHA1: 000b6c4b4f688dd6e6378d3fad94ef7c0aab2857
+SHA256: 5eb14f8fc80969e699e40c87bc892f6a16028e11a967c647b49813b6a4fe1b0d
 Section: Tweaks
 Description: The Best Fake Location Tweak on iOS by xia0Dev. (please remove FakeLocation if use FakeLocationX)
 Author: xia0
