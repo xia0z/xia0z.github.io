@@ -48,20 +48,20 @@ Author: xia0 & hbang
 Name: defaults
 
 Package: com.xia0.douyin4fun
-Version: 0.1.5-1+debug
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 304
+Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.douyin4fun_0.1.5-1+debug_iphoneos-arm.deb
-Size: 76566
-MD5sum: 19a552ba53eb46ef503bb5a796602ad9
-SHA1: 048bcdba2f5bff4cf1e797a614d6d213447dd76a
-SHA256: 33b2a1ae76d55eef581e363e713d0af88b6b46e38b7c1bdf39984bb24cba2711
+Filename: ./debs/com.xia0.douyin4fun_0.2_iphoneos-arm.deb
+Size: 26578
+MD5sum: 7aa9158a70a16535aab6b7ed7d5582a7
+SHA1: f1e9357a511664118567e309b7febcc95b616845
+SHA256: 218252913a258d6e1c5e84a17c88c635fc4f96a1eb98f46b23352f578e724adf
 Section: Tweaks
 Description: 仅用于自娱自乐，严禁用于非法用途，否则后果自负。
 Author: xia0
-Name: 抖音小助手
+Name: 抖音小助手（xia0Dev）
 
 Package: com.xia0.fakelocation
 Version: 0.1.9-2
@@ -87,10 +87,10 @@ Maintainer: xia0
 Installed-Size: 920
 Depends: mobilesubstrate
 Filename: ./debs/com.xia0.fakelocationx_0.3-0_iphoneos-arm.deb
-Size: 612268
-MD5sum: a48669a8f1a1390cec71d75725c06305
-SHA1: 000b6c4b4f688dd6e6378d3fad94ef7c0aab2857
-SHA256: 5eb14f8fc80969e699e40c87bc892f6a16028e11a967c647b49813b6a4fe1b0d
+Size: 612480
+MD5sum: 0740196571071e3e96f3f57477941e34
+SHA1: 666c5843e53198e7f0113f9828059964cc4ad503
+SHA256: 24f7f288dde1f09c1ba19b212698a0f8157ee5e7eb8335b691a13a2a10036bc1
 Section: Tweaks
 Description: The Best Fake Location Tweak on iOS by xia0Dev. (please remove FakeLocation if use FakeLocationX)
 Author: xia0
