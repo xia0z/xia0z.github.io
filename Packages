@@ -51,16 +51,17 @@ Package: com.xia0.douyin4fun
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 172
+Installed-Size: 180
 Depends: mobilesubstrate
 Filename: ./debs/com.xia0.douyin4fun_0.2_iphoneos-arm.deb
-Size: 26578
-MD5sum: 7aa9158a70a16535aab6b7ed7d5582a7
-SHA1: f1e9357a511664118567e309b7febcc95b616845
-SHA256: 218252913a258d6e1c5e84a17c88c635fc4f96a1eb98f46b23352f578e724adf
+Size: 31232
+MD5sum: 156b58bcb35e4bfd8546d8764ea21781
+SHA1: cf7b58a51d77369ffdaa665fcdd6c001e88dff62
+SHA256: af4b44960eab60f1be8da51d7798199085886792910bf86e090fe67f61c8cc97
 Section: Tweaks
 Description: 仅用于自娱自乐，严禁用于非法用途，否则后果自负。
 Author: xia0
+Icon: file:///Library/PreferenceBundles/douyin4fun_bundle.bundle/icon.png
 Name: 抖音小助手（xia0Dev）
 
 Package: com.xia0.fakelocation
