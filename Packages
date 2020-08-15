@@ -163,36 +163,21 @@ Author: xia0 & dodo
 Name: Tap2Debug
 
 Package: com.xia0.wechatzanx
-Version: 0.1-1
+Version: 0.1-2
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.wechatzanx_0.1-1_iphoneos-arm.deb
-Size: 26810
-MD5sum: fff452fe643a6d4928c089530e59a4c3
-SHA1: 0cf485452a05b4fe1def336429aa74d53704c6d4
-SHA256: 295e59c8d78e3dbe2be837fbbf3279f50f6f5e3603b971c1e91be57494abb1c5
+Filename: ./debs/com.xia0.wechatzanx_0.1-2_iphoneos-arm.deb
+Size: 27980
+MD5sum: 646d8122c1fd3f951f5ddbaf5cfd00f3
+SHA1: b894afdd4213bf0ddbb0ce2177e979e56c8bce1b
+SHA256: 729e00c666f9858e16b69a58cf83261fdb2a43f88cf4e76fa523511cfdf91fc8
 Section: Tweaks
-Description: 微信积赞助手xia0Dev版：兼容了新旧版本的微信，修复了众多bug，优化了速度和稳定性。
+Description: 微信积赞助手xia0Dev版：兼容微信7.0.15版本，修复闪退问题。
 Author: xia0
+Icon: https://icons-for-free.com/download-icon-instagram+like+one+like+icon-1320184028781698388_512.png
 Name: 微信积赞助手（xia0Dev）
-
-Package: com.xia0.weibocrashhook
-Version: 0.0.2-3+debug
-Architecture: iphoneos-arm
-Maintainer: xia0
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0.weibocrashhook_0.0.2-3+debug_iphoneos-arm.deb
-Size: 3142
-MD5sum: 45902092f15a126d734d1c840080535d
-SHA1: 9e46fddc388babb4adc465ecf3f8812153ed94b9
-SHA256: 2482b48b401c78b9f6f0e8d9575b9f303f60e2bb14856c9f860a2488d7a6ac16
-Section: Tweaks
-Description: anti sina weibo crash on jailbreak device(iPhoneXS iOS12)
-Author: xia0
-Name: weibocrashhook
 
 Package: com.xia0.weibox
 Version: 0.1-1
