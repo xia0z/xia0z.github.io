@@ -163,16 +163,16 @@ Author: xia0 & dodo
 Name: Tap2Debug
 
 Package: com.xia0.wechatzanx
-Version: 0.2-1
+Version: 0.2-2
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.wechatzanx_0.2-1_iphoneos-arm.deb
-Size: 28224
-MD5sum: 623e98c60c77d3a56f7192cb1a343e71
-SHA1: b222e7246655ada57d512aba4eb31fc7372f2b06
-SHA256: 02f7cd07696ba41410f52f771888bfcbc4fc86a07edb5b2dcba40a47d10ecf59
+Filename: ./debs/com.xia0.wechatzanx_0.2-2_iphoneos-arm.deb
+Size: 28410
+MD5sum: add3ad097559c47c46e14e68fa56d4db
+SHA1: cc8aba6c6991977f3192f02a556fde661134fcff
+SHA256: c78d67a23085c1e2e573e9e91c4218d4f52e5accc566d5036bd047ed14aed37c
 Section: Tweaks
 Description: 微信积赞助手，积赞不求人！
 Author: xia0
