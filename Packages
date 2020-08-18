@@ -163,20 +163,20 @@ Author: xia0 & dodo
 Name: Tap2Debug
 
 Package: com.xia0.wechatzanx
-Version: 0.2-0
+Version: 0.2-1
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.wechatzanx_0.2-0_iphoneos-arm.deb
-Size: 28302
-MD5sum: 469c36071610ca5b591fe6631cc6d7fc
-SHA1: 4721e6e611130bfdaf263d0ee12c62f2abbf58c8
-SHA256: c98be7eb2ec8e1a521e8bc7a2cf5ffcc0f06b01cea308d705588e80c2ab48a74
+Filename: ./debs/com.xia0.wechatzanx_0.2-1_iphoneos-arm.deb
+Size: 28224
+MD5sum: 623e98c60c77d3a56f7192cb1a343e71
+SHA1: b222e7246655ada57d512aba4eb31fc7372f2b06
+SHA256: 02f7cd07696ba41410f52f771888bfcbc4fc86a07edb5b2dcba40a47d10ecf59
 Section: Tweaks
-Description: 微信积赞助手xia0Dev版：兼容微信7.0.15版本，修复闪退问题。
+Description: 微信积赞助手，积赞不求人！
 Author: xia0
-Icon: https://icons-for-free.com/download-icon-instagram+like+one+like+icon-1320184028781698388_512.png
+Icon: https://s1.ax1x.com/2020/08/18/dMg3Oe.png
 Name: 微信积赞助手（xia0Dev）
 
 Package: com.xia0.weibox
