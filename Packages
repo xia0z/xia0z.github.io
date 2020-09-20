@@ -196,16 +196,16 @@ Author: xia0
 Name: WeiboX
 
 Package: com.xia0.xflex
-Version: 0.2-1
+Version: 0.2-3-1+debug
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 2812
+Installed-Size: 3648
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.xflex_0.2-1_iphoneos-arm.deb
-Size: 660068
-MD5sum: a747df51e906f5ef4508ee4e18462bd0
-SHA1: 470a1488db8b1cb785a4e1fad118b03db71fd19f
-SHA256: c22827f856dcb3834c46a49395a9b2ef4e1d6d24c3e8c42f3f084250cc9e331e
+Filename: ./debs/com.xia0.xflex_0.2-3-1+debug_iphoneos-arm.deb
+Size: 1094508
+MD5sum: 04a9ddf85a1bd16c342f5c6682e0310f
+SHA1: a56c13aa299e61b66cb89b67df38a106d811c584
+SHA256: 22f5c1b44df90a936740ec59818dbdc8d37f5344bcc6728d1f6a33afe7dc9160
 Section: Tweaks
 Description: FLEX enable/disable in 3D touch/shortcut.
 Author: xia0
