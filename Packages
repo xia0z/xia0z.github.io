@@ -195,6 +195,22 @@ Description: 微博插件，目前功能仅有去微博内的所有广告（开�
 Author: xia0
 Name: WeiboX
 
+Package: com.xia0.xflex
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 2812
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.xflex_0.2-1_iphoneos-arm.deb
+Size: 660068
+MD5sum: a747df51e906f5ef4508ee4e18462bd0
+SHA1: 470a1488db8b1cb785a4e1fad118b03db71fd19f
+SHA256: c22827f856dcb3834c46a49395a9b2ef4e1d6d24c3e8c42f3f084250cc9e331e
+Section: Tweaks
+Description: FLEX enable/disable in 3D touch/shortcut.
+Author: xia0
+Name: XFLEX
+
 Package: com.xia0z.xkfilza
 Version: 0.0.1-23+debug
 Architecture: iphoneos-arm
