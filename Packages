@@ -82,19 +82,19 @@ Icon: file:///Library/PreferenceBundles/fakelocationpre.bundle/icon@2x.png
 Name: FakeLocation
 
 Package: com.xia0.fakelocationx
-Version: 0.3-0
+Version: 4.1-5
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 920
+Installed-Size: 1544
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fakelocationx_0.3-0_iphoneos-arm.deb
-Size: 612480
-MD5sum: 0740196571071e3e96f3f57477941e34
-SHA1: 666c5843e53198e7f0113f9828059964cc4ad503
-SHA256: 24f7f288dde1f09c1ba19b212698a0f8157ee5e7eb8335b691a13a2a10036bc1
+Filename: ./debs/com.xia0.fakelocationx_4.1-5_iphoneos-arm.deb
+Size: 825192
+MD5sum: 65d7d997229e12e9d2092a964faca503
+SHA1: d8a2466df5eb2639324b3a211e4db8dd69d89c3c
+SHA256: b7ebad317603267b5c7007b9e5d2bf2a138a4d5366bfedb927f9309b84748bfe
 Section: Tweaks
-Description: The Best Fake Location Tweak on iOS by xia0Dev. (please remove FakeLocation if use FakeLocationX)
-Author: xia0
+Description: The Best Fake Location Tweak on iOS by xia0Dev.
+Author: xia0 & lakr
 Icon: file:///Library/PreferenceBundles/fakelocationpre.bundle/icon@2x.png
 Name: FakeLocationX
 
@@ -210,6 +210,22 @@ Section: Tweaks
 Description: FLEX enable/disable in 3D touch/shortcut.
 Author: xia0
 Name: XFLEX
+
+Package: com.xia0.xil2cppdumper
+Version: 3.1-13+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 4004
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.xil2cppdumper_3.1-13+debug_iphoneos-arm.deb
+Size: 571074
+MD5sum: 6b03a56ef451246918199c61d594c5f7
+SHA1: d8d096cf02a9859443f35514a4481734bc29e22b
+SHA256: 5c9f961efb37096cea05fa6b460d1dcd9cffc839ac269e23a46b5d491982a7f9
+Section: Tweaks
+Description: IL2CppDumper Tweak Power by xia0!
+Author: xia0
+Name: iOSXIL2CppDumper
 
 Package: com.xia0z.xkfilza
 Version: 0.0.1-23+debug
