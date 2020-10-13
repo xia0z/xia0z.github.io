@@ -82,19 +82,19 @@ Icon: file:///Library/PreferenceBundles/fakelocationpre.bundle/icon@2x.png
 Name: FakeLocation
 
 Package: com.xia0.fakelocationx
-Version: 4.1-5
+Version: 4.2-2
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 1544
+Installed-Size: 1572
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fakelocationx_4.1-5_iphoneos-arm.deb
-Size: 825192
-MD5sum: 65d7d997229e12e9d2092a964faca503
-SHA1: d8a2466df5eb2639324b3a211e4db8dd69d89c3c
-SHA256: b7ebad317603267b5c7007b9e5d2bf2a138a4d5366bfedb927f9309b84748bfe
+Filename: ./debs/com.xia0.fakelocationx_4.2-2_iphoneos-arm.deb
+Size: 852950
+MD5sum: c83fa4758a362ee16d3643c3d08fac8e
+SHA1: 742537739025945b6e094d95760469ff7c89629e
+SHA256: d0caac4e313523d7443db945d35154446c2da0c47a08b9359c507c6882a396eb
 Section: Tweaks
 Description: The Best Fake Location Tweak on iOS by xia0Dev.
-Author: xia0 & lakr
+Author: xia0 & Lakr
 Icon: file:///Library/PreferenceBundles/fakelocationpre.bundle/icon@2x.png
 Name: FakeLocationX
 
