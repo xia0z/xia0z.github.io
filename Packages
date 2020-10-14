@@ -64,23 +64,6 @@ Author: xia0
 Icon: file:///Library/PreferenceBundles/douyin4fun_bundle.bundle/icon.png
 Name: 抖音小助手（xia0Dev）
 
-Package: com.xia0.fakelocation
-Version: 0.1.9-2
-Architecture: iphoneos-arm
-Maintainer: xia0
-Installed-Size: 920
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
-Filename: ./debs/com.xia0.fakelocation_0.1.9-2_iphoneos-arm.deb
-Size: 614892
-MD5sum: b533a1eca8dc9d566c2d75862064a41a
-SHA1: 0a02efeb54c61e6c2de69dd8b506e498e9b9ef3d
-SHA256: ebceff7d2901016c51b0d8bab29873efb90572c1b71bb34286498598b92e7908
-Section: Tweaks
-Description: The Best Fake Location Tweak on iOS.
-Author: xia0
-Icon: file:///Library/PreferenceBundles/fakelocationpre.bundle/icon@2x.png
-Name: FakeLocation
-
 Package: com.xia0.fakelocationx
 Version: 4.6-5
 Architecture: iphoneos-arm
@@ -129,22 +112,6 @@ Section: Tweaks
 Description: Ads will die for Happy Wheels Game
 Author: xia0
 Name: HappyWheelsNoADs
-
-Package: com.xia0.swiftvershook
-Version: 0.0.3-17+debug
-Architecture: iphoneos-arm
-Maintainer: xia0
-Installed-Size: 140
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0.swiftvershook_0.0.3-17+debug_iphoneos-arm.deb
-Size: 6956
-MD5sum: 72375899432c3d55f09990ef6e22f14b
-SHA1: c58d83bf602c5d0fcfe4a85a66bce3b6d2e1ce23
-SHA256: 9f76a0adefd05062db96746aa22374c3735e420c31f44ff90f5038edd37fd69b
-Section: Tweaks
-Description: Bypass Swift version check !
-Author: xia0
-Name: BypassSwiftVersionCheck
 
 Package: com.xia0.tap2debug
 Version: 0.0.8-1+debug
