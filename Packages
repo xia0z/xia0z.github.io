@@ -211,22 +211,6 @@ Description: FLEX enable/disable in 3D touch/shortcut.
 Author: xia0
 Name: XFLEX
 
-Package: com.xia0.xil2cppdumper
-Version: 3.1-13+debug
-Architecture: iphoneos-arm
-Maintainer: xia0
-Installed-Size: 4004
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0.xil2cppdumper_3.1-13+debug_iphoneos-arm.deb
-Size: 571074
-MD5sum: 6b03a56ef451246918199c61d594c5f7
-SHA1: d8d096cf02a9859443f35514a4481734bc29e22b
-SHA256: 5c9f961efb37096cea05fa6b460d1dcd9cffc839ac269e23a46b5d491982a7f9
-Section: Tweaks
-Description: IL2CppDumper Tweak Power by xia0!
-Author: xia0
-Name: iOSXIL2CppDumper
-
 Package: com.xia0z.xkfilza
 Version: 0.0.1-23+debug
 Architecture: iphoneos-arm
