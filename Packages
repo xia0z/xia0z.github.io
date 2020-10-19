@@ -1,3 +1,19 @@
+Package: com.nablac0d3.sslkillswitch2
+Version: 0.14-3+debug
+Architecture: iphoneos-arm
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 84
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
+Size: 7392
+MD5sum: 41ebada26cdb598d0072594208d14921
+SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
+SHA256: 4cfc2e49e7cda20365ce7d222eacc43202bcd3dcd9107f45869c1b589f7237f8
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 2
+
 Package: com.xia0.alipaynocrash
 Version: 0.0.1-2
 Architecture: iphoneos-arm
@@ -65,16 +81,16 @@ Icon: file:///Library/PreferenceBundles/douyin4fun_bundle.bundle/icon.png
 Name: 抖音小助手（xia0Dev）
 
 Package: com.xia0.fakelocationx
-Version: 5.1-1
+Version: 5.1-2
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 1892
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fakelocationx_5.1-1_iphoneos-arm.deb
-Size: 930642
-MD5sum: 1fe40a92a2ba2924ba74a9aa7f1cdf3a
-SHA1: 7cd4ca96309906183d7c695f1db4c23e3e70c179
-SHA256: ccf8f6804535e1055f6f7bd81bca472c053a889a08c4ebe579cb894edd57836a
+Filename: ./debs/com.xia0.fakelocationx_5.1-2_iphoneos-arm.deb
+Size: 932426
+MD5sum: 5643d8c8c93282b2e49ea11110fc22aa
+SHA1: a5a74fc645be8a54af5f550aeb7f969eed5d9066
+SHA256: 0a21442f0397bf786ee24e38047332dc88f9f84368c3a47b8e37904264de9774
 Section: Tweaks
 Description: The Best Fake Location Tweak on iOS by xia0Dev.
 Author: xia0 & Lakr
