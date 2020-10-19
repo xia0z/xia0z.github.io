@@ -129,6 +129,22 @@ Description: Ads will die for Happy Wheels Game
 Author: xia0
 Name: HappyWheelsNoADs
 
+Package: com.xia0.sslkillswitchx
+Version: 1.0-16
+Architecture: iphoneos-arm
+Maintainer: xia0 & Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.sslkillswitchx_1.0-16_iphoneos-arm.deb
+Size: 5482
+MD5sum: 94390838cd15e51fe79279d396bf7294
+SHA1: 4d3031e940eeed68ad29e1e3560b856fd728519c
+SHA256: 82ff62392d8ea1170feb9040f3d265ccfe7367a42b2168f478b6814704fc709d
+Section: Tweaks
+Description: SSL Kill Switch 2 (xia0Dev Edition)
+Author: xia0 & Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSLKillSwitchX
+
 Package: com.xia0.tap2debug
 Version: 0.0.8-1+debug
 Architecture: iphoneos-arm
