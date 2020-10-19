@@ -97,6 +97,22 @@ Author: xia0 & Lakr
 Icon: file:///Library/PreferenceBundles/fakelocationpre.bundle/icon@2x.png
 Name: FakeLocationX
 
+Package: com.xia0.filzax
+Version: 1.0-4
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.filzax_1.0-4_iphoneos-arm.deb
+Size: 5172
+MD5sum: a9bb7a9f38903e4ecbf2b738d6edb408
+SHA1: 18f8059ff8ba9dad242e8cdee646c9919be680ff
+SHA256: d8775a953a72c681f79e5e50f4c3e697366493b531c5952663563dea3d050a64
+Section: Tweaks
+Description: Filza Crack! (xia0Dev Edition)
+Author: xia0
+Name: FilzaX
+
 Package: com.xia0.fkwatermark
 Version: 0.0.6-3+debug
 Architecture: iphoneos-arm
@@ -209,20 +225,4 @@ Section: Tweaks
 Description: FLEX enable/disable in 3D touch/shortcut.
 Author: xia0
 Name: XFLEX
-
-Package: com.xia0z.xkfilza
-Version: 0.0.1-23+debug
-Architecture: iphoneos-arm
-Maintainer: xia0z
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0z.xkfilza_0.0.1-23+debug_iphoneos-arm.deb
-Size: 3510
-MD5sum: c2ff02e596ae81c2442eb4019f539085
-SHA1: 784c6058e620040b4bd89af5dec5b9a1986752c8
-SHA256: bc1639e0c7603fb4dbf64a7ac5f1542a22259a507a22e628c08866d1d200207d
-Section: Tweaks
-Description: Filza crack
-Author: xia0z
-Name: xkfilza
 
