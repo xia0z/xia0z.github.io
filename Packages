@@ -145,6 +145,22 @@ Description: Ads will die for Happy Wheels Game
 Author: xia0
 Name: HappyWheelsNoADs
 
+Package: com.xia0.larkx
+Version: 1.0-4
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.larkx_1.0-4_iphoneos-arm.deb
+Size: 5206
+MD5sum: 87f294d880eba5bb3dc207fff0a47ea2
+SHA1: 7e146f5040daa7611a884d32320ac542195e5ebd
+SHA256: 740ad54e4955742a0042d8da13a2d0631b21931d48b256998dcd1f68eec2d902
+Section: Tweaks
+Description: Lark Tweak Power by xia0Dev!
+Author: xia0
+Name: Lark X
+
 Package: com.xia0.sslkillswitchx
 Version: 1.3-3
 Architecture: iphoneos-arm
