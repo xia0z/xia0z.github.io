@@ -146,16 +146,16 @@ Author: xia0
 Name: HappyWheelsNoADs
 
 Package: com.xia0.sslkillswitchx
-Version: 1.3-1
+Version: 1.3-3
 Architecture: iphoneos-arm
 Maintainer: xia0 & Alban Diquet <nabla.c0d3@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.sslkillswitchx_1.3-1_iphoneos-arm.deb
-Size: 5570
-MD5sum: 2fc38b643704f278bd4117842574472a
-SHA1: a4a49d38af5ab3b17506fa46fb41df2f2b27d13a
-SHA256: 919e788898146368d5e23e21d2c1bdb6656b2af594f985f63097a3c871536454
+Filename: ./debs/com.xia0.sslkillswitchx_1.3-3_iphoneos-arm.deb
+Size: 5604
+MD5sum: c1d0ae214901bbb8b7692c94f2a47aec
+SHA1: e638d407d4cf76b20e33979fd790010be42f0232
+SHA256: 82bf980e4563d0ae8ae1a7833b203312bd97193b41aaec32c8c244e6bd275a59
 Section: Tweaks
 Description: SSL Kill Switch 2 (xia0Dev Edition)
 Author: xia0 & Alban Diquet <nabla.c0d3@gmail.com>
