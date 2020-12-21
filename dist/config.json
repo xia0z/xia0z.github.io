@@ -6,7 +6,7 @@
   "sort": "star",
   "order": "desc",
   "includeFork": false,
-  "theme": "light.css",
+  "theme": "dark.css",
   "types": [
    "owner"
   ],
