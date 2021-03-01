@@ -81,16 +81,16 @@ Icon: file:///Library/PreferenceBundles/douyin4fun_bundle.bundle/icon.png
 Name: 抖音小助手（xia0Dev）
 
 Package: com.xia0.fakelocationx
-Version: 6.0-21
+Version: 6.0-23
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 1428
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fakelocationx_6.0-21_iphoneos-arm.deb
-Size: 775288
-MD5sum: 5c4cbff584f131e1c58e135e00c3b02a
-SHA1: 34f1c485f96644c932ea53e742b1d790ac9b31ef
-SHA256: b5fdc296f0ac4fbc0dbaceaa2db17384e9b272347f62ff9878db019d5d692e2d
+Filename: ./debs/com.xia0.fakelocationx_6.0-23_iphoneos-arm.deb
+Size: 775290
+MD5sum: 6fc8a304c3189765e61bef8135ab84c4
+SHA1: e33d50a92e0dcb301eed329c7cff9b261869b2c9
+SHA256: 06d6564ff698e81be0e008ba1a41eb53d8310b6985ea8b1c5beb70479d051bcb
 Section: Tweaks
 Description: The Best Fake Location Tweak [xia0Dev]
 Author: xia0 & Lakr
