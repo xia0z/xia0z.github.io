@@ -146,16 +146,16 @@ Author: xia0
 Name: HappyWheelsNoADs
 
 Package: com.xia0.larkx
-Version: 1.0-26
+Version: 1.1-2
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.larkx_1.0-26_iphoneos-arm.deb
-Size: 6130
-MD5sum: dd87f3e4dea57ee7f39d257d21998450
-SHA1: b061528e51f1ea17a116ad0772df719ef21c3bf1
-SHA256: 63621b11395ec8e501e2d3193660c4561191dd5fa4b4044759a1fbdfa78a1ff6
+Filename: ./debs/com.xia0.larkx_1.1-2_iphoneos-arm.deb
+Size: 6280
+MD5sum: abe7c3fe21516818b82d848c25031046
+SHA1: cb2e86cdec5fb493701e68798330951a24d6eb12
+SHA256: 29d8692afc9e14f2a0fd40a1a0834ae93d1b2ae605c027543612816f0acec2da
 Section: Tweaks
 Description: Lark Tweak Power by xia0Dev!
 Author: xia0
