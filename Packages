@@ -193,6 +193,22 @@ Description: tap shortcut(double tap app icon is deault close because app will p
 Author: xia0 & dodo
 Name: Tap2Debug
 
+Package: com.xia0.wechatx
+Version: 2.0-13
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 692
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.wechatx_2.0-13_iphoneos-arm.deb
+Size: 195024
+MD5sum: 19b4df08314c2b727c56c126a2446978
+SHA1: 404d9edd8f912446708c26e95ee17557153995f4
+SHA256: 35e229b76ddfbd5766623b882f764f68ca3f98a9644177187cebacfb9f4f14cd
+Section: Tweaks
+Description: WeChat Tools By xia0Dev
+Author: xia0
+Name: WeChat X
+
 Package: com.xia0.wechatzanx
 Version: 0.2-2
 Architecture: iphoneos-arm
