@@ -194,16 +194,16 @@ Author: xia0 & dodo
 Name: Tap2Debug
 
 Package: com.xia0.wechatx
-Version: 2.0-30
+Version: 2.1-1
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 304
+Installed-Size: 644
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.wechatx_2.0-30_iphoneos-arm.deb
-Size: 71380
-MD5sum: 7117edebc4ed257cfdfb81ee80200ba9
-SHA1: 0c39671d6058201594d1fe970f68d32a01735c6c
-SHA256: d28edb1551fb5d91524a2c970cb085f63c6a9494d13077a4af111ba2601eb6ea
+Filename: ./debs/com.xia0.wechatx_2.1-1_iphoneos-arm.deb
+Size: 160548
+MD5sum: 53864f8f1263d6013ff35cf07ff6b6b8
+SHA1: 53b100dccc11b5dd2a4e5022663dd41a125d07f0
+SHA256: 123ba64989908f39aed786eb55167008b970949fcca8461801fc03e805d0c9d5
 Section: Tweaks
 Description: WeChat Tools By xia0Dev
 Author: xia0
