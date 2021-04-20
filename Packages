@@ -81,16 +81,16 @@ Icon: file:///Library/PreferenceBundles/douyin4fun_bundle.bundle/icon.png
 Name: 抖音小助手（xia0Dev）
 
 Package: com.xia0.fakelocationx
-Version: 6.3-3
+Version: 6.4-1
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 2524
+Installed-Size: 2540
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.fakelocationx_6.3-3_iphoneos-arm.deb
-Size: 1007772
-MD5sum: e5aff1f36c3179423ea8d24bf6f77878
-SHA1: 5ab024d77663c62f07d11ec55ac21dc3bdbcb30f
-SHA256: cd9e81abbf9c8390402f3ad9d155ce552f06f5d0fee8e9e2bb67440f861e2886
+Filename: ./debs/com.xia0.fakelocationx_6.4-1_iphoneos-arm.deb
+Size: 1008258
+MD5sum: 14c5e20453b387b69e01c8f1813db115
+SHA1: 87118a515c873729a0bfa63ae97a3372f0d1a6a5
+SHA256: 674298f171fe0c89ef3cc497134b6549a7397374106e42546eec34b50e3abc73
 Section: Tweaks
 Description: The Best Fake Location Tweak xia0Dev Edition
 Author: xia0 & Lakr
@@ -194,16 +194,16 @@ Author: xia0 & dodo
 Name: Tap2Debug
 
 Package: com.xia0.wechatx
-Version: 2.0-13
+Version: 2.0-30
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 692
+Installed-Size: 304
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.wechatx_2.0-13_iphoneos-arm.deb
-Size: 195024
-MD5sum: 19b4df08314c2b727c56c126a2446978
-SHA1: 404d9edd8f912446708c26e95ee17557153995f4
-SHA256: 35e229b76ddfbd5766623b882f764f68ca3f98a9644177187cebacfb9f4f14cd
+Filename: ./debs/com.xia0.wechatx_2.0-30_iphoneos-arm.deb
+Size: 71380
+MD5sum: 7117edebc4ed257cfdfb81ee80200ba9
+SHA1: 0c39671d6058201594d1fe970f68d32a01735c6c
+SHA256: d28edb1551fb5d91524a2c970cb085f63c6a9494d13077a4af111ba2601eb6ea
 Section: Tweaks
 Description: WeChat Tools By xia0Dev
 Author: xia0
