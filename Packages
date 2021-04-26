@@ -259,16 +259,16 @@ Author: xia0
 Name: XFLEX
 
 Package: com.xia0.xpctracer
-Version: 1.0-280
+Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: xia0
-Installed-Size: 288
+Installed-Size: 220
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.xpctracer_1.0-280_iphoneos-arm.deb
-Size: 96224
-MD5sum: 05a2eba9a10d92e8495aef055bfc3880
-SHA1: a7c1338e5c613089c426ce14bc2b5257a4bbbfe2
-SHA256: 1240fc842dfbe4978023642994435595f85ef26cd5b92e8cd92e71d79171c59b
+Filename: ./debs/com.xia0.xpctracer_1.1-1_iphoneos-arm.deb
+Size: 63776
+MD5sum: 18dad377479445955651f2e7bb65665c
+SHA1: b536396e401fe221c678aea5d5c87316aa4bb968
+SHA256: 0363426d958da676e18fa6ddb406f631dc9eff39808438d16b464e0ca835929c
 Section: Tweaks
 Description: This is xpctracer power by X!A0
 Author: xia0
