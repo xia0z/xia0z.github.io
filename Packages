@@ -258,3 +258,19 @@ Description: FLEX enable/disable in 3D touch/shortcut.
 Author: xia0
 Name: XFLEX
 
+Package: com.xia0.xpctracer
+Version: 1.0-280
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.xpctracer_1.0-280_iphoneos-arm.deb
+Size: 96224
+MD5sum: 05a2eba9a10d92e8495aef055bfc3880
+SHA1: a7c1338e5c613089c426ce14bc2b5257a4bbbfe2
+SHA256: 1240fc842dfbe4978023642994435595f85ef26cd5b92e8cd92e71d79171c59b
+Section: Tweaks
+Description: This is xpctracer power by X!A0
+Author: xia0
+Name: xpctracer
+
