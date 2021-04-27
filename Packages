@@ -259,18 +259,18 @@ Author: xia0
 Name: XFLEX
 
 Package: com.xia0.xpctracer
-Version: 1.1-1
+Version: 1.1-5
 Architecture: iphoneos-arm
 Maintainer: xia0
 Installed-Size: 220
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0.xpctracer_1.1-1_iphoneos-arm.deb
-Size: 63776
-MD5sum: 18dad377479445955651f2e7bb65665c
-SHA1: b536396e401fe221c678aea5d5c87316aa4bb968
-SHA256: 0363426d958da676e18fa6ddb406f631dc9eff39808438d16b464e0ca835929c
-Section: Tweaks
-Description: This is xpctracer power by X!A0
+Filename: ./debs/com.xia0.xpctracer_1.1-5_iphoneos-arm.deb
+Size: 63886
+MD5sum: 31d346188d6b35a74f0dca747137a2e1
+SHA1: d084ab551ca97cec8593d10254a393945ad1358f
+SHA256: cb468143ecefe916fab42077ae953d41b62fc89634a85995250fc23e51737d13
+Section: System
+Description: This is xpc trace tool for security research.
+Tag: role::hacker
 Author: xia0
 Name: xpctracer
 
