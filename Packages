@@ -162,6 +162,22 @@ Description: Ads will die for Happy Wheels Game
 Author: xia0
 Name: HappyWheelsNoADs
 
+Package: com.xia0.hdjx
+Version: 1.0-16
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.hdjx_1.0-16_iphoneos-arm.deb
+Size: 5162
+MD5sum: 5b423bea83f4eebed5a9356df971857f
+SHA1: 8465be09f0f6ba789bf60db9e137b7dde2719edd
+SHA256: c6946978bf4f78ddc9f56091d80778394a6ddca99cf3ef65be1588de9484414e
+Section: Tweaks
+Description: 自动2倍速播放强制看的科一/科四理论学习视频
+Author: xia0
+Name: 海淀驾校自动播放
+
 Package: com.xia0.larkx
 Version: 1.1-2
 Architecture: iphoneos-arm
