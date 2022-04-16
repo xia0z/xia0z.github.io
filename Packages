@@ -1,15 +1,16 @@
+
 Package: com.nacl.hm
-Version: 1.0
+Version: 1.4.0
 Architecture: iphoneos-arm
 Maintainer: sakura <sakuraosx.g@gmail.com>
 Installed-Size: 84
 Depends: mobilesubstrate
 Filename: ./debs/com.nacl.hm_1.4.0+SakuraOSX_iphoneos-arm.deb
-Size: 7392
+Size:1101
 MD5sum: f0dcb369715019f2e674440628d27056
 SHA1: a0250cadadd717fb714029e75511785769c58b5b
 SHA256: cc0976e74e92f0180c38a3cae4b2cec981307abe6fbd35cfda8b4817d78664f4
 Section: Tweaks
-Description: Hack Map liên quân mobile mua key inbox zalo.me/ntnamk3
-Author:Sakura <sakuraosx.g@gmail.com>
+Description: mua key inbox zalo.me/ntnamk3
+Author: Sakura <sakuraosx.g@gmail.com>
 Name: Hack Map LQMB
