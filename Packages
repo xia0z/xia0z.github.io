@@ -1,6 +1,6 @@
 
 Package: com.nacl.hm
-Version: 1.9.0
+Version: 1.4.0
 Section: Tweaks
 Maintainer: Sakura<nthe0241@gmail.com>
 Depends: mobilesubstrate
@@ -11,4 +11,4 @@ SHA1: a0250cadadd717fb714029e75511785769c58b5b
 SHA256: cc0976e74e92f0180c38a3cae4b2cec981307abe6fbd35cfda8b4817d78664f4
 Name: Liên Quân Map
 Author: Sakura<nthe0241@gmail.com>
-Depiction: Mua Hack LQM IB zalo:0355278216
+Description: Mua Hack LQM IB zalo:0355278216
