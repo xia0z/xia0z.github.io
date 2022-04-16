@@ -70,7 +70,7 @@
     </div>
     <script type="text/javascript">
       setTimeout(function() {
-	       <div class="pyro"><div class="before"></div><div class="after"></div></div>
+	     
         document.getElementById("loading").classList.add("animated");
         document.getElementById("loading").classList.add("fadeOut");
         setTimeout(function() {
@@ -81,6 +81,7 @@
         }, 800);
       }, 1500);
       $.getJSON("blog.json", function(blog) {
+	        <div class="pyro"><div class="before"></div><div class="after"></div></div>
         blog = blog || [];
         if (blog.length == 0) {
           return (document.getElementById("blog_section").style.display =
