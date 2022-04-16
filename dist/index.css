@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1500&q=80");
+    url("https://raw.githubusercontent.com/ntnamk3/profile/master/images/86672C1B-BE64-42C2-A50B-5F3AB2617C26.jpeg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1500&q=80") center center fixed;
+    url("https://raw.githubusercontent.com/ntnamk3/profile/master/images/86672C1B-BE64-42C2-A50B-5F3AB2617C26.jpeg") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1500&q=80") !important;
+      url("https://raw.githubusercontent.com/ntnamk3/profile/master/images/86672C1B-BE64-42C2-A50B-5F3AB2617C26.jpeg") !important;
   }
 }
