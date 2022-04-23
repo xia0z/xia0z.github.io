@@ -11,3 +11,17 @@ SHA256: 35a1949bcb763f883dd0035c324eb790c9eec7a9b82ed1ec94146db800c13ddb
 Name: Liên Quân Map
 Author: Sakura <nthe0241@gmail.com>
 Depiction: Mua Hack LQM IB zalo:0355278216
+
+Package: com.ae.hackmap
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Sakura <nthe0241@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ae.hackmap_1.4.5+SakuraOSX_iphoneos-arm.deb
+MD5sum: ae5ed2afc7f69e7bd871345bed05f633
+SHA1: 48cbf3537aaa08d713724432238fca2345e5deac
+SHA256: 3c76c5c9dd0a14220cfbe49b56e71f5bee8f7bf624dab1fe7ff83f7decb7e25a
+Name: Anh Em LiveTrym
+Author: Sakura <nthe0241@gmail.com>
+Depiction: Mua Hack LQM IB zalo:0355278216
