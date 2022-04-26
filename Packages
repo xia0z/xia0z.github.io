@@ -5,9 +5,9 @@ Maintainer: Sakura <nthe0241@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.nacl.hm_1.4.5+SakuraOSX_iphoneos-arm.deb
-MD5sum: 587a01e1c63dec7fd07664092379c197
-SHA1: d89301ea53eadb114ea2e968bf3b9a6d4af77ed0
-SHA256: ed109d2097631f7eb812ca2108c9016154310d147549a423328fe70ba3eade71
+MD5sum: 862a59eb3547fe0f74ed24a672622b7a
+SHA1: 0d3d6784c30c4860d876edb261579c1ba245c535
+SHA256: 5ef77f0515caa6d3f2caac85013375176a02d215a7370f1a53e1d9f1879a2970
 Name: Liên Quân Map Sakura
 Author: Sakura <nthe0241@gmail.com>
 Depiction: Mua Hack LQM IB zalo:0355278216
