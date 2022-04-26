@@ -1,5 +1,5 @@
 Package: com.nacl.hm
-Version: 1.5.0
+Version: 1.5.5
 Section: Tweaks
 Maintainer: Sakura <nthe0241@gmail.com>
 Depends: mobilesubstrate
@@ -13,7 +13,7 @@ Author: Sakura <nthe0241@gmail.com>
 Depiction: Mua Hack LQM IB zalo:0355278216
 
 Package: com.ae.hackmap
-Version: 1.2.0
+Version: 1.2.5
 Section: Tweaks
 Maintainer: Sakura <nthe0241@gmail.com>
 Depends: mobilesubstrate
