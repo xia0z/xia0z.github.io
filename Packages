@@ -1,27 +1,27 @@
 Package: com.nacl.hm
-Version: 1.7.0
+Version: 1.8.0
 Section: Tweaks
 Maintainer: Sakura <nthe0241@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.nacl.hm_1.4.5+SakuraOSX_iphoneos-arm.deb
-MD5sum: 11ae11a2984a9eb47ca729ebdff828af
-SHA1: 5a2d68129065e1d4b9f3060582fa00a5843a57de
-SHA256: 4099dd504ccd0b3d71eefa49d76b79bdb8a652fcb9f4bbff42267f518dac6018
+MD5sum: f16cf9df5ab4e90b9048eece191c4f17
+SHA1: 02d8d8df1e91527464b4312a97533fa839dfd493
+SHA256: 5196e984370282bae0c686b88fef415a155d5c3ca4198a437867fc82247641dd
 Name: Liên Quân Map Sakura
 Author: Sakura <nthe0241@gmail.com>
 Depiction: Mua Hack LQM IB zalo:0355278216
 
 Package: com.ae.hackmap
-Version: 1.4.0
+Version: 1.5.0
 Section: Tweaks
 Maintainer: Sakura <nthe0241@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.ae.hackmap_1.4.5+SakuraOSX_iphoneos-arm.deb
-MD5sum: 77c4e860f88dcbad7b9298def1af9ff5
-SHA1: c425d7dc6649abb2494f8931700ed10f13f5a720
-SHA256: d3508965d34dd25cbc8c03c9f224318b6b8870336dde8fe92a921b720faf277d
+MD5sum: 403f0aeba22e27084cb73a4a36e47319
+SHA1: 4d36420f2282aef892c018c14fc3ce9692705058
+SHA256: 1dba47e18ab1e6c8b0a17395f05ff9dc54ee31d2a10e0bf89c985b580313ac68
 Name: Anh Em LiveTrym
 Author: Sakura <nthe0241@gmail.com>
 Depiction: Mua Hack LQM IB zalo:0355278216
