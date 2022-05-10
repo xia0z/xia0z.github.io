@@ -1,13 +1,13 @@
 Package: com.nacl.hm
-Version: 2.0.1
+Version: 2.1.1
 Section: Tweaks
 Maintainer: Sakura <nthe0241@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.nacl.hm_1.4.5+SakuraOSX_iphoneos-arm.deb
-MD5sum: c700c2d4a858542a070d4b731831a343
-SHA1: cdbae3f6fb9d087af4d867ff50600a6547181905
-SHA256: 97f8bcfaafb12750c9f820b6f56e90f790e1accbac49405ed61595aca37c810e
-Name:  Map LQMB Sakura
+MD5sum: f943aedb28233dc009e331143a51920e
+SHA1: 5a6dbbc165c4aaf217b4c97873139c0eab426bf5
+SHA256: 5eee6132a36e5abdf91a38e1b54216de94eb352d95c25c1e958f73bdeccf04e6
+Name:  Liên Quân Hax
 Author: Sakura <nthe0241@gmail.com>
 Depiction: Mua Hack LQM IB zalo:0355278216
