@@ -1,7 +1,7 @@
 Package: com.nacl.hm
 Version: 2.5.1
 Section: Hacks
-Maintainer: Sakura <nthe0241@gmail.com>
+Maintainer: NemOSVN <nthe0241@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.nacl.hm_1.4.5+NemOSX_iphoneos-arm.deb
