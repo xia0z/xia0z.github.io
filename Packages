@@ -1,6 +1,6 @@
 Package: com.nacl.hm
 Version: 2.5.1
-Section: Tweaks
+Section: Hacks
 Maintainer: Sakura <nthe0241@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
