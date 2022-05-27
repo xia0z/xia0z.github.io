@@ -15,3 +15,23 @@ Homepage: https://repo-sakura.tk/
 Depiction: https://repo-sakura.tk/
 Icon: http://info-thenamk3.tk/images/icon.JPG
 Priority: optional
+
+
+Package: applist
+Version: 1.5.16
+Section: System
+Maintainer: NemOSVN <nthe0241@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Architecture: iphoneos-arm
+Filename: ./debs/applist_1.5.16_iphoneos-arm.deb
+MD5sum: e8535b59900f8998e11c5ac7cebe0247
+SHA1: 844eea32526270fbaf7d22f9ade510e671eaac66
+SHA256: 15ec44aa7b73474772d462fc433915af2f3762b82c580251520c29896adae846
+Name:  AppList
+Description: Cho phép các tiện ích mở rộng đọc danh sách các ứng dụng đã cài đặt
+Author: Ryan Petrich <rpetrich@gmail.com>
+Homepage: https://repo-sakura.tk/
+Depiction: https://repo-sakura.tk/
+Icon: http://info-thenamk3.tk/images/icon.JPG
+Priority: optional
