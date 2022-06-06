@@ -1,141 +1,94 @@
-<!DOCTYPE html><html lang="en"><head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Sakura Repo</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/magic-grid/dist/magic-grid.min.js"></script>
-    <link rel="stylesheet" href="index.css">
-  <link rel="icon" href="https://raw.githubusercontent.com/ntnamk3/-/gh-pages/images/icon.JPG" type="image/png"></head>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Official Cydia Repo</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
 
-  <body>
-    <div id="loading">
-      <div id="spinner"></div>
-    </div>
-    <div id="profile">
-      <div id="profile_img" style="background: url(https://raw.githubusercontent.com/ntnamk3/-/gh-pages/images/icon.JPG) center;"></div>
-      <div id="username"><span style="display:block;">SakuraOSX</span><a href="https://fb.com/sakuraosx">@sakuraosx</a></div>
-      <div id="userbio" style="display: block;">Repo Của Tôi</div>
-      <div id="about"> 
-	        <div class="pyro"><div class="before"></div><div class="after"></div></div>
-                <span style="display:none;"><i class="fas fa-users"></i> &nbsp; null</span>
-                <span style="display:none;"><i class="fas fa-envelope"></i> &nbsp; null</span>
-                <span style="display:block;"><i class="fas fa-link"></i> &nbsp; <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo-sakura.tk/">Thêm Repo Sakura Cydia</a></span><br>
-               <span style="display:block;"><i class="fas fa-link"></i> &nbsp; <a href="sileo://source/https://repo-sakura.tk/">Thêm Repo Sakura Sileo</a></span><br>
-               <span style="display:block;"><i class="fas fa-link"></i> &nbsp; <a href="installer://add/https://repo-sakura.tk/">Thêm Repo Sakura Installer</a></span><br>
-                           <span style="display:block;"><i class="fas fa-link"></i> &nbsp; <a href="zbra://sources/add/https://repo-sakura.tk/">Thêm Repo Sakura Zebra</a></span><br>
-                <span style="display:block;"><i class="fas fa-map-marker-alt"></i> &nbsp;&nbsp; Việt Nam</span>
-                <span style="display:none;"><i class="fas fa-user-tie"></i> &nbsp;&nbsp; Available for hire</span>
-                <div class="socials">
-                <span style="display:block;"><a href="https://www.facebook.com/SakuraOSX/" target="_blank" class="socials"><i class="fab fa-facebook"></i></a></span>
-                <span style="display:block;"><a href="https://www.tiktok.com/@thenamk3" target="_blank" class="socials"><i class="fab fa-tiktok"></i></a></span>
-                <span style="display:block;"><a href="https://www.t.me/thenamk3" target="_blank" class="socials"><i class="fab fa-telegram"></i></a></span>
-                <span style="display:none !important;"><a href="https://www.medium.com/@null/" target="_blank" class="socials"><i class="fab fa-medium-m"></i></a></span>
-                </div>
-                </div>
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-    </div>
-    <div id="display">
-      <div id="work">
-        <h1>More</h1>
-        <div class="projects" id="work_section"> 
-                     
-                        <a href="https://fb.com/sakuraosx" target="_blank">
-                        <section>
-                            <div class="section_title">Liên Quân Moblie</div>
-                            <div class="about_section">
-                            <span style="display:block;">Chức Năng:Hack Map<br>Cam Xa 30/40/50%<br>Hiện Rank Địch<br>Hiện Unti Địch<br>Block URL<br>Và Còn Nhiều Chức Năng Và Antiban</span>
-                            </div>
-                            <div class="bottom_section">
-                                <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Shell</span>
-                                <span><i class="fas fa-star"></i>&nbsp; 1.7k</span>
-                                <span><i class="fas fa-code-branch"></i>&nbsp; 679</span>
-                            </div>               
-                        </section>
-                        </a></div>
-      </div>
-      <div id="forks" style="display:none;">
-        <h1>Forks.</h1>
-        <div class="projects" id="forks_section"></div>
-      </div>
-      <div id="blog_section">
-        <h1>Blog.</h1>
-        <div id="blogs"></div>
-      </div>
-      <div id="footer">
-        <a href="https://www.facebook.com/SakuraOSX/" target="_blank">Được Tạo Bởi SakuraOSX</a>
-      </div>
-    </div>
-    <script type="text/javascript">
-      setTimeout(function() {     
-        document.getElementById("loading").classList.add("animated");
-        document.getElementById("loading").classList.add("fadeOut");
-        setTimeout(function() {
-	
-          document.getElementById("loading").classList.remove("animated");
-          document.getElementById("loading").classList.remove("fadeOut");
-          document.getElementById("loading").style.display = "none";
-        }, 800);
-      }, 1500);
-      $.getJSON("blog.json", function(blog) {
-	       
-        blog = blog || [];
-        if (blog.length == 0) {
-          return (document.getElementById("blog_section").style.display =
-            "none");
-        }
-        for (var i = 0; i < blog.length; i++) {
-          $("#blogs").append(`
-            <a href="./blog/${blog[i].url_title}/" target="_blank">
-                <section>
-                    <img src="./blog/${blog[i].url_title}/${blog[i].top_image}">
-                    <div class="blog_container">
-                        <div class="section_title">${blog[i].title}</div>
-                        <div class="about_section">
-                            ${blog[i].sub_title}
-                        </div>
-                    </div>
-                </section>
-            </a>
-            `);
-        }
-      }).fail(function() {
-        return (document.getElementById("blog_section").style.display = "none");
-      });
-    </script>
+				<!-- Header -->
+					<header id="header" class="alt">
+						<span class="logo"><img src="images/logo.svg" alt="" /></span>
+						<h1>xmamonx</h1>
+					</header>
 
-    <script>
-      const magicProjectsGrid = new MagicGrid({
-        container: "#work_section",
-        animate: false,
-        gutter: 30, // default gutter size
-        static: true,
-        useMin: false,
-        maxColumns: 2,
-        useTransform: true
-      });
+				<!-- Main -->
+					<div id="main">
 
-      const magicForksGrid = new MagicGrid({
-        container: "#forks_section",
-        animate: false,
-        gutter: 30, // default gutter size
-        static: true,
-        useMin: false,
-        maxColumns: 2,
-        useTransform: true
-      });
+						<!-- Introduction -->
+							<section id="intro" class="main">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+                    <h2>GnuLinux User , Developer , Revers Engineer , Mobile Security , jailbreak , Tweaks++ ,</h2>
+										</header>
+										<p>xmamonx repo</p>
+										<ul class="actions">
+											<li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo-sakura.tk/" class="button">Cydia</a></li>
+											<li><a href="zbra://sources/add/https://repo-sakura.tk/" class="button">Zebra</a></li>
+											<li><a href="sileo://source/https://repo-sakura.tk/" class="button">Sileo</a></li>
+										</ul>
+									</div>
+									<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+								</div>
+							</section>
 
-      $("document").ready(() => {
-        magicProjectsGrid.listen();
-        magicForksGrid.listen();
-      });
-    </script>
-  
-<style>
-	html,body{cursor:url("https://1.bp.blogspot.com/-qbWo9mPKO2Y/YL9utYdQBdI/AAAAAAAAFs4/mtjGu6u2uGwtJsT4gZG4lbhLV1a5lG6OQCLcBGAsYHQ/s0/mouse-f1.png"), auto;}
-	a:hover{cursor:url("https://1.bp.blogspot.com/-nYv2dLl3oXY/YL9utYBCh8I/AAAAAAAAFtA/wII4lVw5w4k-4isGMY41heTqk8U4TJujgCLcBGAsYHQ/s0/mouse-f2.png"), auto;}
-</style>
-  
-</body></html>
+						<!-- First Section -->
+							<section id="first" class="main special">
+								<header class="major">
+									<h1>Information</h1>
+								</header>
+								<ul class="features">
+									<li>
+										<span class="icon major style1 fa-code"></span>
+										<h3></h3>
+										</li>
+
+								</ul>
+								<footer class="major">
+									<ul class="actions">
+
+									</ul>
+								</footer>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<ul class="icons">
+								<li><a href="https://twitter.com/x_mamon_x" class="icon fa-twitter alt"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/" class="icon fa-facebook alt"><span class="label">Facebook</span></a></li>
+								<li><a href="https://github.com/xmamonx" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
+							</ul>
+						</section>
+
+<div><h2><b>Notice</b></h2>
+<p>To see latest updates Follow me on Twitter<a href="https://www.twitter.com/x_mamon_x"><b> <em>xmamonx</em></b></a>. Thank you!</p>
+</div>
+
+<hr>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
