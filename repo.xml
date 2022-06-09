@@ -4,6 +4,17 @@
 			<name>Follow me on Facebook</name>
 			<url>https://www.facebook.com/thenamk3.profile</url>
 			<iconclass>fa fa-facebook</iconclass>
+			<link>
+				</link>
+			<name>Hỗ trợ qua email</name>
+			<url>nthe0241@gmail.com</url>
+			<iconclass>fa fa-mail</iconclass>
+		    </link>
+		    <link>
+	               <name>Donate Me</name>
+	    <url>https://www.paypal.me/thenamk3</url>
+			<iconclass>fa fa-paypal</iconclass>
+	            </link>
 		</link>
 	</footerlinks>
 </repo>
