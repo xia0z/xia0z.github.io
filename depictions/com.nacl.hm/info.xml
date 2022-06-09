@@ -1,6 +1,6 @@
 <package>
 	<id>com.nacl.hm</id>
-	<name>Hack Map Liên Quân</name>
+	<name>NEMOS Repo</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -12,32 +12,45 @@
 	</dependencies>
 	<shortDescription>Hack Map</shortDescription>
 	<descriptionlist>
-		<description>Chức Năng
- - 𝐇𝐚𝐜𝐤 𝐌𝐚𝐩
- - 𝐂𝐚𝐦 𝐱𝐚 𝐕1 30-40-50%
- - 𝐂𝐚𝐦 𝐱𝐚 𝐕2 (Slider Siêu Xa)
-  -Cam Xa V3 UiTexxt
- - 𝐇𝐢𝐞̣̂𝐧 𝐚𝐯𝐚𝐭𝐚𝐫 𝐤𝐡𝐢 𝐬𝐚̆̃𝐧 𝐬𝐚̀𝐧𝐠
- - 𝐇𝐢𝐞̣̂𝐧 𝐭𝐞̂𝐧 𝐯𝐚̀ 𝐩𝐡𝐞́𝐩 𝐛𝐨̂̉ 𝐭𝐫𝐨̛̣ + 𝐏𝐡ù 𝐇𝐢ệ𝐮 𝐭𝐞𝐚𝐦 𝐝𝐢̣𝐜𝐡 𝐥𝐮́𝐜 𝐩𝐢𝐜𝐤 𝐭𝐮̛𝐨̛́𝐧𝐠
- - 𝐇𝐢𝐞̣̂𝐧 𝐫𝐚𝐧𝐤 𝐭𝐞𝐚𝐦 𝐝𝐢̣𝐜𝐡 𝐤𝐡𝐢 𝐥𝐨𝐚𝐝 𝐭𝐫𝐚̣̂𝐧
- - 𝐇𝐢𝐞̣̂𝐧 𝐭𝐡𝐨̛̀𝐢 𝐠𝐢𝐚𝐧 𝐡𝐨̂̀𝐢 𝐩𝐡𝐞́𝐩 𝐛𝐨̂̉ 𝐭𝐫𝐨̛̣ (𝐭𝐨̂́𝐜 𝐛𝐢𝐞̂́𝐧, 𝐭𝐫𝐮̛̀𝐧𝐠 𝐭𝐫𝐢̣,...) 𝐭𝐞𝐚𝐦 đị𝐜𝐡
- - 𝐀𝐢𝐦𝐁𝐨𝐭 𝐒𝐤𝐢𝐥𝐥
- - 𝐇𝐢𝐞̣̂𝐧 𝐥𝐢̣𝐜𝐡 𝐬𝐮̛̉ 𝐝𝐚̂́𝐮 (𝐡𝐢ệ𝐧 𝐭𝐚̂́𝐭 𝐜𝐚̉ 𝐥𝐢̣𝐜𝐡 𝐬𝐮̛̉ 𝐝𝐚̂́𝐮 𝐜𝐚́𝐜 𝐚𝐜𝐜 𝐚̂̉𝐧 𝐥𝐢̣𝐜𝐡 𝐬𝐮̛̉ 𝙩𝙧𝙚̂𝙣 𝐁𝐗𝐇 )
- -𝐇𝐢ệ𝐧 𝐭𝐡ờ𝐢 𝐠𝐢𝐚𝐧 𝐡ồ𝐢 𝐛ù𝐚 đị𝐜𝐡 𝐤𝐡𝐢 𝐩𝐢𝐧𝐠 𝐯à 𝐭𝐫ê𝐧 𝐛ả𝐧 đồ
- -𝗔𝘂𝘁𝗼𝗪𝗶𝗻 ( Máy )
- -Ẩ𝗻 𝘁ê𝗻 𝗻𝗴ườ𝗶 𝗰𝗵ơ𝗶 
- -𝗕𝗹𝗼𝗰𝗸 𝘂𝗿𝗹 𝗚𝗮𝗺𝗲
--MOD SKIN Không Cân Dán File</description>
+		<description>
+			- 𝐇𝐚𝐜𝐤 𝐌𝐚𝐩
+			- 𝐂𝐚𝐦 𝐱𝐚 𝐕1 30-40-50%
+ 
+			- 𝐂𝐚𝐦 𝐱𝐚 𝐕2 (Slider Siêu Xa)
+  
+			-Cam Xa V3 UiTexxt
+ 
+			- 𝐇𝐢𝐞̣̂𝐧 𝐚𝐯𝐚𝐭𝐚𝐫 𝐤𝐡𝐢 𝐬𝐚̆̃𝐧 𝐬𝐚̀𝐧𝐠
+ 
+			- 𝐇𝐢𝐞̣̂𝐧 𝐭𝐞̂𝐧 𝐯𝐚̀ 𝐩𝐡𝐞́𝐩 𝐛𝐨̂̉ 𝐭𝐫𝐨̛̣ + 𝐏𝐡ù 𝐇𝐢ệ𝐮 𝐭𝐞𝐚𝐦 𝐝𝐢̣𝐜𝐡 𝐥𝐮́𝐜 𝐩𝐢𝐜𝐤 𝐭𝐮̛𝐨̛́𝐧𝐠
+ 
+			- 𝐇𝐢𝐞̣̂𝐧 𝐫𝐚𝐧𝐤 𝐭𝐞𝐚𝐦 𝐝𝐢̣𝐜𝐡 𝐤𝐡𝐢 𝐥𝐨𝐚𝐝 𝐭𝐫𝐚̣̂𝐧
+ 
+			- 𝐇𝐢𝐞̣̂𝐧 𝐭𝐡𝐨̛̀𝐢 𝐠𝐢𝐚𝐧 𝐡𝐨̂̀𝐢 𝐩𝐡𝐞́𝐩 𝐛𝐨̂̉ 𝐭𝐫𝐨̛̣ (𝐭𝐨̂́𝐜 𝐛𝐢𝐞̂́𝐧, 𝐭𝐫𝐮̛̀𝐧𝐠 𝐭𝐫𝐢̣,...) 𝐭𝐞𝐚𝐦 đị𝐜𝐡
+ 
+			- 𝐀𝐢𝐦𝐁𝐨𝐭 𝐒𝐤𝐢𝐥𝐥
+ 
+			- 𝐇𝐢𝐞̣̂𝐧 𝐥𝐢̣𝐜𝐡 𝐬𝐮̛̉ 𝐝𝐚̂́𝐮 (𝐡𝐢ệ𝐧 𝐭𝐚̂́𝐭 𝐜𝐚̉ 𝐥𝐢̣𝐜𝐡 𝐬𝐮̛̉ 𝐝𝐚̂́𝐮 𝐜𝐚́𝐜 𝐚𝐜𝐜 𝐚̂̉𝐧 𝐥𝐢̣𝐜𝐡 𝐬𝐮̛̉ 𝙩𝙧𝙚̂𝙣 𝐁𝐗𝐇 )
+
+			-𝐇𝐢ệ𝐧 𝐭𝐡ờ𝐢 𝐠𝐢𝐚𝐧 𝐡ồ𝐢 𝐛ù𝐚 đị𝐜𝐡 𝐤𝐡𝐢 𝐩𝐢𝐧𝐠 𝐯à 𝐭𝐫ê𝐧 𝐛ả𝐧 đồ
+
+			-𝗔𝘂𝘁𝗼𝗪𝗶𝗻 ( Máy )
+ 
+			-Ẩ𝗻 𝘁ê𝗻 𝗻𝗴ườ𝗶 𝗰𝗵ơ𝗶 
+ 
+			-𝗕𝗹𝗼𝗰𝗸 𝘂𝗿𝗹 𝗚𝗮𝗺𝗲
+
+			-𝙈𝙊𝘿 𝙎𝙆𝙄𝙉 𝙆𝙝𝙤̂𝙣𝙜 𝘾𝙖̂𝙣 𝘿𝙖́𝙣 𝙁𝙞𝙡𝙚</description>
 		<description>Mua Key Hack Liên Hệ Qua Đường Contact
-      Facbook:https://www.facebook.com/thenamk3.profile
-      Zalo:https://zalo.me/ntnamk3
-      Telegram:https://t.me/thenamk3</description>
+      Facbook:𝙝𝙩𝙩𝙥𝙨://𝙬𝙬𝙬.𝙛𝙖𝙘𝙚𝙗𝙤𝙤𝙠.𝙘𝙤𝙢/𝙩𝙝𝙚𝙣𝙖𝙢𝙠𝟯.𝙥𝙧𝙤𝙛𝙞𝙡𝙚
+      Zalo:𝙝𝙩𝙩𝙥𝙨://𝙯𝙖𝙡𝙤.𝙢𝙚/𝙣𝙩𝙣𝙖𝙢𝙠𝟯
+      Telegram:𝙝𝙩𝙩𝙥𝙨://𝙩.𝙢𝙚/𝙩𝙝𝙚𝙣𝙖𝙢𝙠𝟯</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description>Using</description>
 			<image>IMG_1693.png.jpg.jpg</image>
-			<image>IMG_1692.png.jpg</image>
+			
 		</screenshot>
 	</screenshots>
 	<changelog>
