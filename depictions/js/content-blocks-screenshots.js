@@ -5,7 +5,7 @@ function getContentBlocks() {
             "source" :"package>screenshots>screenshot",
             "render" : function(element,source) {
                 if ($(source).size()==0) {
-                    $(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") ); 
+                    $(element).append( $("<div class='alert alert-danger'>Không có bất kỳ ảnh chụp màn hình nào cho gói này</div>") ); 
                     return;
                 }
                 $.each(source, function(index,data) {
