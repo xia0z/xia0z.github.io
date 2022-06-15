@@ -1,0 +1,29 @@
+<package>
+    <id>hskmodmenu</id>
+    <name>HSK Mod Menu v15</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>5.0</miniOS>
+            <maxiOS>13.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>HSK Mod Menu</description>
+    </descriptionlist>
+    <screenshots>
+	<screenshot>
+			<description>This is a description for screenshot</description>
+			<image>mod.jpg</image>
+		</screenshot>	
+	</screenshots>
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>
