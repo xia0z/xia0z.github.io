@@ -1,8 +1,8 @@
-Origin: NemOS🇻🇳
+Origin: @repo.thenamk3.net
 Label: NemOS Repo
 Suite: stable
 Version: 4.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: NemOS 
+Description: thenamk3 
