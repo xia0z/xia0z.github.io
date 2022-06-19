@@ -28,11 +28,11 @@
         </description>
     </descriptions>
     <compatibility>
-        <miniOS>11.0</miniOS>
+        <miniOS>13.0</miniOS>
         <maxiOS>15.0</maxiOS>
     </compatibility>
     <dependencies>
-        <dependency>mobilesubstrate &amp; </dependency>
+        <dependency>mobilesubstrate</dependency>
     </dependencies>
     <changelog>
         <change>
