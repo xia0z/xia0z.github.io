@@ -23,11 +23,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot 1",
-                            "url": "https://redentic.dev/depictions/com.redenticdev.swrespringpack/1.png"
+                            "url": "https://repo.thenamk3.net/depictions/lqmhack/52582A8E-7BD1-4331-A590-25C8827AAF3D.png"
                         },
                         {
                             "accessibilityText": "Screenshot 2",
-                            "url": "https://redentic.dev/depictions/com.redenticdev.swrespringpack/2.png"
+                            "url": "https://repo.thenamk3.net/depictions/lqmhack/7B91305A-2AC5-4234-BB15-EB55AB2C0A7D.png"
                         }
                     ]
                 },
@@ -69,12 +69,12 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Developer",
-                    "text": "RedenticDev"
+                    "text": "NemOS"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Price",
-                    "text": "Free"
+                    "text": "Mua LH Zalo 0355278216"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -84,22 +84,22 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "iOS Version",
-                    "text": "iOS 11.0 to 14.4"
+                    "text": "iOS 13.0 to 15.0"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Last update",
-                    "text": "03/15/2021"
+                    "text": "19/06/2022"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Release date",
-                    "text": "03/11/2021"
+                    "text": "19/06/2022"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Category",
-                    "text": "Theme"
+                    "text": "Hack"
                 },
                 {
                     "class": "DepictionSeparatorView"
