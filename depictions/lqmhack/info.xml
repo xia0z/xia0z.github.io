@@ -4,7 +4,7 @@
     <name>Hack LQMB</name>
     <descriptions>
         <description>
-            Hack LQMB By NemOS
+            Hack LQMB By Repo.thenamk3.net
         </description>
         <description>
             Chức Năng:
@@ -32,11 +32,11 @@
         <maxiOS>15.0</maxiOS>
     </compatibility>
     <dependencies>
-        <dependency>mobilesubstrate</dependency>
+        <dependency>Mua Hack LQMB Liên Hệ Zalo 0355278216</dependency>
     </dependencies>
     <changelog>
         <change>
-            <changeVersion>v1.0.0</changeVersion>
+            <changeVersion>1.0</changeVersion>
             <changeDescription>Initial Release</changeDescription>
         </change>
     </changelog>
@@ -46,7 +46,7 @@
     </screenshots>
     <informations>
         <developer>Repo.thenamk3.net</developer>
-        <category>Hack</category>
+        <category>Tweak Hack</category>
     </informations>
     <links>
         <github>https://www.facebook.com/thenamk3.profile</github>
