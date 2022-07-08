@@ -1,13 +1,13 @@
 Package: repo.thenamk3.net
-Version: 4.6.3
+Version: 5.0.0
 Section: Hacks
 Maintainer: NemOSVN <nthe0241@gmail.com>
 Depends: firmware (>= 5.0),mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: ./debs/repo.thenamk3.net_1.6+NemOSX_iphoneos-arm.deb
-MD5sum: 0e0d9dd55d16b125e4c0e590de9c4f9d
-SHA1: 6bf82179c0af590ce9471aab01a6bb1c957fd3ed
-SHA256: 6d23d2002752b0fbc0998bd858daad33c1532c9b01696341f13f4559e443e629
+MD5sum: 923fd100cf3f85837f0ac324ca248d6c
+SHA1: f3ce3803d2b695a5ddb56178fe0725b0c75da580
+SHA256: 73c8ae00f610cbe7f9570d1feea38b5a5ca35ce6e3a03466932d49ed00c6c27b
 Name: Hack Liên Quân NemOSVN
 Description: Hack Map Liên Quân
 Author: NemOS <nthe0241@gmail.com>
