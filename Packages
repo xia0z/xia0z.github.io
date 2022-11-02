@@ -4,15 +4,15 @@ Section: Hacks
 Maintainer: NemOSVN <nthe0241@gmail.com>
 Depends: firmware (>= 5.0),mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: ./debs/repo.thenamk3.net_1.6+NemOSX_iphoneos-arm.deb
-MD5sum: 923fd100cf3f85837f0ac324ca248d6c
-SHA1: f3ce3803d2b695a5ddb56178fe0725b0c75da580
-SHA256: 73c8ae00f610cbe7f9570d1feea38b5a5ca35ce6e3a03466932d49ed00c6c27b
+Filename: ./debs/LQMVNG.deb
+MD5sum: 6372d7b3ccac57c3dde60450e678a894
+SHA1: 3e83641e493cd2be4f7cefbee95970d3997bfcab
+SHA256: d94f580d4669d847b6b6028aca4082c11d61819ec38e2158f83da1f0f136a346
 Name: Hack Liên Quân NemOSVN
 Description: Hack Map Liên Quân
 Author: NemOS <nthe0241@gmail.com>
-Homepage: https://repo-sakura.tk/
-Depiction: https://repo.thenamk3.net/depictions/?p=lqmhack
+Homepage: https://repo.thenamk3.net/
+Depiction: https://thenamk3.net/
 Icon:https://repo.thenamk3.net/depictions/lqmhack/icon.png
 Priority: optional
 
