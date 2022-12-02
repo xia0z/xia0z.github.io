@@ -1,0 +1,72 @@
+{
+    "name": "fca-kaneki",
+    "version": "3.0.0",
+    "description": "Facebook chat api hỗ trợ cho bot messenger",
+    "scripts": {
+      "test": "mocha",
+      "lint": "./node_modules/.bin/eslint **.js",
+      "prettier": "prettier utils.js src/* --write"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/"
+    },
+    "keywords": [
+      "fca kaneki",
+      "fca-kaneki"
+    ],
+    "bugs": {
+      "url": "https://741p0o.sse.codesandbox.io/fcacheck"
+    },
+    "author": "Avery, David, Maude, Benjamin, Kaneki",
+    "license": "MIT",
+    "dependencies": {
+      "aes-js": "latest",
+      "axios": "latest",
+      "bluebird": "^2.11.0",
+      "chalk": "4.1.2",
+      "cheerio": "latest",
+      "crypto": "latest",
+      "horizon-sp": "latest",
+      "https-proxy-agent": "latest",
+      "mqtt": "latest",
+      "npmlog": "latest",
+      "request": "latest",
+      "semver": "latest",
+      "websocket-stream": "latest"
+    },
+    "engines": {
+      "node": ">=10.x"
+    },
+    "devDependencies": {
+      "eslint": "^7.5.0",
+      "mocha": "^7.0.1",
+      "prettier": "^1.11.1"
+    },
+    "eslintConfig": {
+      "env": {
+        "es6": true,
+        "node": true
+      },
+      "extends": "eslint:recommended",
+      "parserOptions": {
+        "sourceType": "module"
+      },
+      "rules": {
+        "linebreak-style": [
+          "error",
+          "unix"
+        ],
+        "semi": [
+          "error",
+          "always"
+        ],
+        "no-unused-vars": [
+          1,
+          {
+            "argsIgnorePattern": "^_"
+          }
+        ]
+      }
+    }
+  }
