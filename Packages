@@ -4,11 +4,11 @@ Section: Hacks
 Maintainer: NemOSVN <nthe0241@gmail.com>
 Depends: firmware (>= 5.0),mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: ./debs/LQMVNG-Cân+Report.deb
-MD5sum: c39f7378e0b7a26b1d965b8e1ed935ff
-SHA1: cde83725b9f7a51c1507dd4fb5f3abd6a7283bb3
-SHA256: a3f7ce1e5a104a20027dccd2149c0f9f8149a7e0d51f137a1a2e3483f02a52ca
-Name: Hack Liên Quân NemOSVN
+Filename: ./debs/IOS-JB-Free-LQMV2.deb
+MD5sum: a965f8594c31a617eb8b33881d4bd496
+SHA1: deb8fe6633b6d3546edb4f55c7aeed2a7fda3f5b
+SHA256: dd0ea256834b86290411dd98d0050ddf8cf12dc9a628a2881c31c48a30238dc4
+Name: Hack Liên Quân NemG Free
 Description: Hack Map Liên Quân
 Author: NemOS <nthe0241@gmail.com>
 Homepage: https://repo.thenamk3.net/
