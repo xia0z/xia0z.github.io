@@ -4,21 +4,16 @@
     
     "NemGAPI": 
         [{
-            "tên bài hát":[{
- 
-            "tên bài hát":"EDM",
+            "path":"EDM",
             "link":"http://info-thenamk3.tk/musicc/GG.mp3" 
                 
-            } 
+           },{
 
 
-
-]}]
-            
-            
-                    
+            "path":"EDM",
+            "link":"http://info-thenamk3.tk/musicc/GG.mp3" 
                 
-              
-        
-      
-} 
+
+
+
+}]} 
