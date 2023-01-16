@@ -1,5 +1,5 @@
 Package: repo.thenamk3.net
-Version: 5.0.0
+Version: 6.0.0
 Section: Hacks
 Maintainer: NemOSVN <nthe0241@gmail.com>
 Depends: firmware (>= 5.0),mobilesubstrate (>= 0.9.5000)
