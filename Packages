@@ -1,13 +1,13 @@
 Package: repo.thenamk3.net
-Version: 6.0.0
+Version: 6.5.0
 Section: Hacks
 Maintainer: NemOSVN <nthe0241@gmail.com>
 Depends: firmware (>= 5.0),mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: ./debs/LQM(NemG)Free.deb
-MD5sum: 0c42c92bb6efb8279f9f2385195674ba
-SHA1: 89361bf10f2809700cc8e64550d05d07c030034b
-SHA256: bd0e749beb97252149eb006a923513fe27797bcc9e03d45514fccec600e7329c
+Filename: ./debs/repo.thenamk3.net_1.6+NemOSX_iphoneos-arm.deb
+MD5sum: 9e2985dd325572612ae525918e20d535
+SHA1: a29c19e6b7de757e8db11f31df24d412a2739313
+SHA256: c40576ea541652fb023aa6f65d45bf986f4c35ec73ee626de0bac958bc88dd79
 Name: Hack Liên Quân NemG Free
 Description: Hack Map Liên Quân
 Author: NemOS <nthe0241@gmail.com>
