@@ -15,3 +15,23 @@ Homepage: https://repo.thenamk3.net/
 Depiction: https://thenamk3.net/
 Icon:https://repo.thenamk3.net/depictions/lqmhack/icon.png
 Priority: optional
+
+
+
+Package: repo.thenamk3.net
+Version: 6.5.0
+Section: Tweak
+Maintainer: NemOSVN <nthe0241@gmail.com>
+Depends: firmware (>= 5.0),mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.NemG.dynamicpeninsula_0.1-39k_iphoneos-arm.deb
+MD5sum: 5b727c97751bb093fd6f9366735f3d81
+SHA1: a2eab92998da9d59654d62f69e07dacbce5b9059
+SHA256: cefd161b73b37a3de74a826a0434af25c5ba89ba01b54b2d9f04e54e8598de17
+Name: DynamicPeninsula Crack
+Description: Dynamic Island on your notch
+Author: NemOS <nthe0241@gmail.com>
+Homepage: https://repo.thenamk3.net/
+Depiction: https://thenamk3.net/
+Icon:https://repo.thenamk3.net/depictions/lqmhack/icon.png
+Priority: optional
