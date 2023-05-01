@@ -1,8 +1,8 @@
-Origin: xia0Repo
-Label: xia0's Repo
+Origin: @repo.thenamk3.net
+Label: NemOS Repo
 Suite: stable
-Version: 1.0
+Version: 4.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: This is a cydia repo created on github
+Description: thenamk3 
