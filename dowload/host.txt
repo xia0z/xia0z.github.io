@@ -1,4 +1,4 @@
-127.0.0.1 link.thenamk3.net
+link.thenamk3.net 127.0.0.1
 127.0.0.1 krping.igamecj.com
 127.0.0.1 file.igamecj.com
 127.0.0.1 igamecj.com
